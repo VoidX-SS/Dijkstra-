@@ -6,16 +6,16 @@ namespace DoAnCuoiKy_Dijkstra
     public class Graph
     {
         // Danh sách các đỉnh trong đồ thị (lưu bằng LinkedList tự cài đặt)
-        private MyLinkedList<Vertex> vertices;
+        private CustomLinkedList<Vertex> vertices;
 
         // Constructor: khởi tạo danh sách đỉnh rỗng
         public Graph()
         {
-            vertices = new MyLinkedList<Vertex>();
+            vertices = new CustomLinkedList<Vertex>();
         }
 
         // Trả về danh sách đỉnh
-        public MyLinkedList<Vertex> Vertices
+        public CustomLinkedList<Vertex> Vertices
         {
             get { return vertices; }
         }
