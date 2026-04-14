@@ -2,7 +2,6 @@ using System;
 
 namespace DoAnCuoiKy_Dijkstra
 {
-    Dùng Generic cho List
     public class ListNode<T>
     {
         public T Data { get; set; }
