@@ -2,27 +2,34 @@ using System;
 
 namespace DoAnCuoiKy_Dijkstra
 {
+    // Danh sách liên kết Generic để lưu trữ Adjacency List
     public class CustomLinkedList<T>
     {
         public ListNode<T> Head { get; private set; }
         public ListNode<T> Tail { get; private set; }
-        public int Count { get; private set; }
+        
+        private int count;
+        public int Count 
+        { 
+            get { return count; } 
+        }
 
         public CustomLinkedList()
         {
             Head = null;
             Tail = null;
-            Count = 0;
+            count = 0;
         }
 
-        // Hàm thêm thành phố
+        // Thêm phần tử vào cuối danh sách
         public void AddLast(T data)
         {
             ListNode<T> newNode = new ListNode<T>(data);
 
             if (Head == null)
             {
-                Head = Tail = newNode;
+                Head = newNode;
+                Tail = newNode;
             }
             else
             {
@@ -30,49 +37,59 @@ namespace DoAnCuoiKy_Dijkstra
                 newNode.Prev = Tail;
                 Tail = newNode;
             }
-            Count++;
+            count++;
         }
 
-        // Lấy thành phố tại một vị trí index
-        public T GetAt(int index)
+        // Thêm phần tử vào đầu danh sách
+        public void AddFirst(T data)
         {
-            if (index < 0 || index >= Count)
-                throw new IndexOutOfRangeException("Vị trí không hợp lệ.");
+            ListNode<T> newNode = new ListNode<T>(data);
 
-            ListNode<T> current = Head;
-            for (int i = 0; i < index; i++)
+            if (Head == null)
             {
-                current = current.Next;
+                Head = newNode;
+                Tail = newNode;
             }
-            return current.Data;
-        }
-
-        // Hàm Remove
-        public void Remove(ListNode<T> nodeToRemove)
-        {
-            if (nodeToRemove == null || Head == null) return;
-
-            // Nếu là Head
-            if (nodeToRemove == Head)
-            {
-                Head = nodeToRemove.Next;
-                if (Head != null) Head.Prev = null;
-                else Tail = null; // List có 1 phần tử
-            }
-            // Nếu là Tail
-            else if (nodeToRemove == Tail)
-            {
-                Tail = nodeToRemove.Prev;
-                if (Tail != null) Tail.Next = null;
-            }
-            // Nếu nằm giữa
             else
             {
-                nodeToRemove.Prev.Next = nodeToRemove.Next;
-                nodeToRemove.Next.Prev = nodeToRemove.Prev;
+                newNode.Next = Head;
+                Head.Prev = newNode;
+                Head = newNode;
             }
+            count++;
+        }
 
-            Count--;
+        // Xóa một phần tử theo Data
+        public bool Remove(T data)
+        {
+            ListNode<T> current = Head;
+            while (current != null)
+            {
+                if (current.Data.Equals(data))
+                {
+                    if (current == Head)
+                    {
+                        Head = current.Next;
+                        if (Head != null) Head.Prev = null;
+                        else Tail = null; // List có 1 phần tử
+                    }
+                    else if (current == Tail)
+                    {
+                        Tail = current.Prev;
+                        if (Tail != null) Tail.Next = null;
+                    }
+                    else
+                    {
+                        current.Prev.Next = current.Next;
+                        current.Next.Prev = current.Prev;
+                    }
+
+                    count--;
+                    return true;
+                }
+                current = current.Next;
+            }
+            return false;
         }
     }
 }
