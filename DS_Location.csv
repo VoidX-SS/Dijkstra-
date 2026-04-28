@@ -68,3 +68,940 @@ NhaThiDauPhuTho,Nhà thi đấu Phú Thọ,40,280,Thể thao
 BinhQuoi,Khu du lịch Bình Quới,400,80,Vui chơi
 HTV,Đài truyền hình HTV,230,160,Công trình kiến trúc
 AeonBT,Aeon Mall Bình Tân,10,300,TTTM
+UBNDTPHCM,UBND TP.HCM,210,190,Cơ quan hành chính
+NhaDoVHTN,Nhà Văn hóa Thanh Niên,175,175,Văn hóa
+HoangThanhTower,Kumho Asiana Plaza,185,175,TTTM
+BVTuDu,Bệnh viện Từ Dũ,110,230,Y tế
+BVBinhDan,Bệnh viện Bình Dân,120,210,Y tế
+CongVienLeThiRieng,Công viên Lê Thị Riêng,90,190,Công viên
+ChoHoaHoThiKy,Chợ hoa Hồ Thị Kỷ,110,240,Chợ truyền thống
+VungTauFerry,Bến phà Tàu cao tốc (Bạch Đằng),235,210,Giao thông
+CauSaiGon,Cầu Sài Gòn,310,170,Giao thông
+KDLVanThanh,KDL Văn Thánh,290,165,Vui chơi
+BXMienDongMoi,Bến xe Miền Đông Mới,570,80,Giao thông
+KhuCongNgheCao,Khu Công nghệ cao (SHTP),510,130,Khu công nghiệp
+ChoThuDuc,Chợ Thủ Đức,440,100,Chợ truyền thống
+VincomThuDuc,Vincom Plaza Thủ Đức,450,90,TTTM
+BVKhuVucThuDuc,Bệnh viện Đa khoa KV Thủ Đức,420,80,Y tế
+SPKTE,ĐH Sư phạm Kỹ thuật,460,95,Đại học
+NhaThoThuDiem,Nhà thờ Thủ Thiêm,290,230,Tâm linh
+SalaUrban,Khu đô thị Sala,300,260,Khu dân cư
+EstellaPlace,Estella Place,370,190,TTTM
+ChoBinhDien,Chợ đầu mối Bình Điền,60,450,Chợ truyền thống
+BVNhiDongThanhPho,Bệnh viện Nhi Đồng Thành Phố,40,420,Y tế
+AEONBinhTan,Aeon Mall Bình Tân,10,300,TTTM
+BXChoLon,Bến xe Chợ Lớn,40,320,Giao thông
+ThuanKieuPlaza,The Garden Mall (Thuận Kiều),60,300,TTTM
+BVHungVuong,Bệnh viện Hùng Vương,70,290,Y tế
+BVNhiDong1,Bệnh viện Nhi Đồng 1,90,260,Y tế
+BVPNT,Bệnh viện Phạm Ngọc Thạch,100,300,Y tế
+ChuaGiacLam,Chùa Giác Lâm,50,210,Tâm linh
+SVDQuanKhu7,SVĐ Quân Khu 7,85,90,Thể thao
+CongVienHoangVanThu,Công viên Hoàng Văn Thụ,80,100,Công viên
+PicoPlaza,Lotte Mart Cộng Hòa,70,120,TTTM
+EtownTanBinh,Tòa nhà E-town,50,140,Tòa nhà
+ChoTanBinh,Chợ Tân Bình,60,190,Chợ truyền thống
+PandoraCity,Pandora City,30,150,TTTM
+KCNTanBinh,KCN Tân Bình,10,120,Khu công nghiệp
+PhanMemQuangTrung,Công viên Phần mềm Quang Trung,50,40,Khu công nghệ
+ChoHanhThongTay,Chợ Hạnh Thông Tây,140,60,Chợ truyền thống
+EmartGoVap,Emart Gò Vấp,180,80,TTTM
+IUH,ĐH Công nghiệp TP.HCM,160,70,Đại học
+BV175,Bệnh viện Quân y 175,120,70,Y tế
+ChoBaChieu,Chợ Bà Chiểu,200,120,Chợ truyền thống
+BVBinhThanh,Bệnh viện Quận Bình Thạnh,210,110,Y tế
+Hutech,ĐH Công nghệ TP.HCM (Hutech),240,140,Đại học
+BXBXAnSuong,Bến xe An Sương,40,20,Giao thông
+ChoHocMon,Chợ Hóc Môn,30,-10,Chợ truyền thống
+DiaDaoCuChi,Địa đạo Củ Chi,-20,-60,Di tích lịch sử
+KhuSinhThaiCuChi,Khu du lịch sinh thái Củ Chi,-10,-40,Vui chơi
+BVXuyenA,Bệnh viện Xuyên Á,10,-10,Y tế
+KCXTanThuan,KCX Tân Thuận,250,380,Khu công nghiệp
+BVFVP,Bệnh viện FV,270,440,Y tế
+SECC,Trung tâm Triển lãm SECC,280,440,Trung tâm sự kiện
+ChoTanMy,Chợ Tân Mỹ,260,420,Chợ truyền thống
+ĐHNguyenTatThanh,ĐH Nguyễn Tất Thành (Q4),220,310,Đại học
+ĐHLuat,ĐH Luật TP.HCM,240,290,Đại học
+BenTauKhach,Bến tàu khách Cần Giờ,350,650,Giao thông
+DaoKhiCanGio,Đảo Khỉ Cần Giờ,380,720,Khu du lịch
+BienCanGio,Biển 30/4 Cần Giờ,400,780,Vui chơi
+KDLBinhKhanh,KDL Sinh thái Bình Khánh,320,550,Vui chơi
+RungSac,Rừng ngập mặn Vàm Sát,340,680,Sinh thái
+ChuaBaChauDoc,Chùa Bà Châu Đốc 3 (Nhà Bè),250,520,Tâm linh
+PhapVienMinhDangQuang,Pháp Viện Minh Đăng Quang,340,180,Tâm linh
+KhuDuLichBCRC,Khu du lịch BCR,480,250,Vui chơi
+DHMienTay,ĐH Miền Tây (Bình Chánh),80,480,Đại học
+CongVienPhuLam,Công viên Phú Lâm,20,290,Công viên
+CoopMartPhuLam,Co.opmart Phú Lâm,25,295,TTTM
+BVQ6,Bệnh viện Quận 6,30,310,Y tế
+ChuaPhapHoa,Chùa Pháp Hoa,140,200,Tâm linh
+BaoTangPhuNu,Bảo tàng Phụ nữ Nam Bộ,130,160,Bảo tàng
+NhaTheThaoPhuTho,Nhà thi đấu Phú Thọ,60,260,Thể thao
+DHYDCS2,ĐH Y Dược (Cơ sở 2),70,270,Đại học
+ChoKimBien,Chợ Kim Biên,40,330,Chợ truyền thống
+BVChoRay2,Bệnh viện Chợ Rẫy 2 (BC),50,460,Y tế
+VUSNguyenThiMinhKhai,VUS Nguyễn Thị Minh Khai,150,190,Giáo dục
+ToaNhaBitexco,Bitexco Financial Tower,225,245,Tòa nhà biểu tượng
+ChoCuTonThatDam,Chợ Cũ Tôn Thất Đạm,215,240,Chợ truyền thống
+CauMong,Cầu Mống,220,260,Giao thông
+NHNN,Ngân hàng Nhà nước VN,230,250,Cơ quan
+SaigonCenter,Saigon Centre,200,230,TTTM
+BVMatsg,Bệnh viện Mắt TP.HCM,130,190,Y tế
+BVDaLieu,Bệnh viện Da Liễu,125,195,Y tế
+BVTaiMuiHong,Bệnh viện Tai Mũi Họng,120,200,Y tế
+BVNhanDan115,Bệnh viện Nhân dân 115,95,245,Y tế
+DHHuFLIT,ĐH Ngoại ngữ - Tin học,90,230,Đại học
+DHHoaSen,ĐH Hoa Sen,190,240,Đại học
+SanKhauKichIdecaf,Sân khấu kịch Idecaf,220,180,Văn hóa
+BaoTangTonDucThang,Bảo tàng Tôn Đức Thắng,240,210,Bảo tàng
+CongVienBachDang,Công viên Bến Bạch Đằng,245,220,Công viên
+ToaNhaSunWah,Sun Wah Tower,225,230,Tòa nhà
+ToaNhaAB,A&B Tower,180,250,Tòa nhà
+KhachSanNewWorld,New World Hotel,170,250,Khách sạn
+KhachSanCaravelle,Caravelle Hotel,215,210,Khách sạn
+KhachSanRex,Rex Hotel,205,220,Khách sạn
+KhachSanMajestic,Majestic Hotel,235,235,Khách sạn
+BVDaiHocYDuoc,Bệnh viện Đại học Y Dược,70,285,Y tế
+HungTemple,Đền Hùng (Thảo Cầm Viên),265,145,Tâm linh
+VongXoayDienBienPhu,Vòng xoay Điện Biên Phủ,210,150,Giao thông
+CauThiNghe,Cầu Thị Nghè,240,140,Giao thông
+VongXoayPhuLam,Vòng xoay Phú Lâm,20,300,Giao thông
+CauNguyenVanCu,Cầu Nguyễn Văn Cừ,160,290,Giao thông
+CauChuY,Cầu Chữ Y,140,310,Giao thông
+ChoPhamTheHien,Chợ Phạm Thế Hiển,120,340,Chợ truyền thống
+BVDaKhoaQ8,Bệnh viện Quận 8,100,360,Y tế
+DHCongNgheSaiGon,ĐH Công nghệ Sài Gòn,130,370,Đại học
+BenXeQuan8,Bến xe Quận 8,90,390,Giao thông
+CauChaVa,Cầu Chà Và,80,330,Giao thông
+KhuDanCuTrungSon,Khu dân cư Trung Sơn,170,360,Khu dân cư
+LotteMartNamSaiGon,Lotte Mart Nam Sài Gòn,190,410,TTTM
+CauKenhTe,Cầu Kênh Tẻ,190,350,Giao thông
+CauTanThuan,Cầu Tân Thuận,240,360,Giao thông
+ChoTanMy,Chợ Tân Mỹ,260,420,Chợ truyền thống
+DinhDocLap_PhiaTruoc,Dinh Độc Lập (Cổng chính),155,200,Di tích lịch sử
+DinhDocLap_CongSau,Dinh Độc Lập (Cổng sau),145,200,Di tích lịch sử
+PhoDiBoBuiVien,Phố đi bộ Bùi Viện,130,265,Vui chơi
+ChoTanDinh_CongChinh,Chợ Tân Định (Cổng Hai Bà Trưng),135,100,Chợ truyền thống
+NhaThoTanDinh_MatTien,Nhà thờ Tân Định (Mặt tiền),145,110,Tâm linh
+CongVienLeVanTam_Cong1,CV Lê Văn Tám (Cổng ĐBP),140,130,Công viên
+CongVienLeVanTam_Cong2,CV Lê Văn Tám (Cổng HBT),130,120,Công viên
+HoConRua_VongXoay,Vòng xoay Hồ Con Rùa,170,165,Giao thông
+BuuDienTP_MatTien,Bưu điện TP (Mặt tiền),190,180,Công trình kiến trúc
+DuongSachTPHCM,Đường sách Nguyễn Văn Bình,185,185,Văn hóa
+NhaHatTP_MatTien,Nhà hát TP (Mặt tiền),215,210,Văn hóa
+PhoDiBoNguyenHue_Dau,Phố đi bộ Nguyễn Huệ (UBND),215,195,Vui chơi
+PhoDiBoNguyenHue_Cuoi,Phố đi bộ Nguyễn Huệ (Sông SG),230,245,Vui chơi
+BaoTangMyThuat_Cong1,Bảo tàng Mỹ thuật (Cổng PNT),165,270,Bảo tàng
+BenNhaRong_BaoTang,Bảo tàng Hồ Chí Minh (Bến Nhà Rồng),255,280,Bảo tàng
+CauKhanhHoi,Cầu Khánh Hội,245,270,Giao thông
+ToaNhaSunwahPearl,Sunwah Pearl,280,190,Chung cư
+ToaNhaSaigonPearl,Saigon Pearl,270,180,Chung cư
+VinhomesCentralPark,Vinhomes Central Park,380,160,Khu dân cư
+CongVienLandmark81,Công viên Landmark 81,390,140,Công viên
+CauThuThiem1,Cầu Thủ Thiêm 1,290,170,Giao thông
+HoDaLHQG,Hồ Đá Làng Đại học,530,110,Vui chơi
+NhaVanHoaSinhVien,Nhà văn hóa Sinh viên ĐHQG,520,100,Văn hóa
+BXBusDHQG,Bến xe buýt ĐHQG,540,90,Giao thông
+SuoiTien_CongChinh,KDL Suối Tiên (Cổng chính),555,100,Vui chơi
+DenTuongNiemBenDuoc,Đền tưởng niệm Bến Dược,-30,-70,Di tích lịch sử
+CongVienNuocCuChi,Công viên nước Củ Chi,-20,-50,Vui chơi
+TrangTraiBoSuaCuChi,Trang trại Bò sữa Củ Chi,0,-30,Nông trại
+KCNTayBacCuChi,KCN Tây Bắc Củ Chi,10,-20,Khu công nghiệp
+CongVienCaKoi,Rin Rin Park (Công viên Cá Koi),-10,30,Vui chơi
+ChuaHoangPhap,Chùa Hoằng Pháp,20,10,Tâm linh
+NgaTuAnSuong,Ngã tư An Sương,45,25,Giao thông
+ChoBaDiem,Chợ Bà Điểm,35,35,Chợ truyền thống
+KhuDanCuVinhLoc,Khu dân cư Vĩnh Lộc,20,80,Khu dân cư
+KCNVinhLoc,KCN Vĩnh Lộc,10,90,Khu công nghiệp
+ChuaBinhA,Chùa Bình A,15,100,Tâm linh
+KCNTanTao,KCN Tân Tạo,5,220,Khu công nghiệp
+ChoBinhTriDong,Chợ Bình Trị Đông,15,250,Chợ truyền thống
+BVGiaDinh,Bệnh viện Nhân dân Gia Định,205,105,Y tế
+BVUngBuou,Bệnh viện Ung Bướu,200,100,Y tế
+BXGiaDinh,Bến xe buýt Gia Định,210,120,Giao thông
+NgatuHangXanh,Ngã tư Hàng Xanh,230,130,Giao thông
+DHHongBang,ĐH Quốc tế Hồng Bàng,225,125,Đại học
+DHKinhTeTaiChinh,ĐH Kinh tế Tài chính (UEF),220,135,Đại học
+ChungCuCityGarden,City Garden,240,150,Chung cư
+ChungCuTheManor,The Manor,250,160,Chung cư
+KhuDuLichTanCang,KDL Tân Cảng,280,150,Vui chơi
+CauBinhLoi,Cầu Bình Lợi,250,60,Giao thông
+CauBinhTrien,Cầu Bình Triệu,240,70,Giao thông
+CoopMartBinhTrieu,Co.opmart Bình Triệu,260,65,TTTM
+ĐHLuat_CS2,ĐH Luật (Cơ sở Bình Triệu),255,75,Đại học
+ChoBinhTrieu,Chợ Bình Triệu,265,60,Chợ truyền thống
+VanPhucCity,Khu đô thị Vạn Phúc,280,30,Khu dân cư
+NgaTuBinhPhuoc,Ngã tư Bình Phước,320,10,Giao thông
+ChoDauMoiThuDuc,Chợ đầu mối nông sản Thủ Đức,350,20,Chợ truyền thống
+BvQuanThuDuc,Bệnh viện TP Thủ Đức,400,60,Y tế
+KCNLinhTrung1,KCX Linh Trung 1,480,70,Khu công nghiệp
+KCNLinhTrung2,KCX Linh Trung 2,430,30,Khu công nghiệp
+SuoiTienThemePark,Công viên Theme Park Suối Tiên,545,105,Vui chơi
+ChuaBuuLong,Chùa Bửu Long,600,120,Tâm linh
+DenHungQ9,Đền thờ các Vua Hùng (Q9),580,110,Di tích lịch sử
+KDLTheGioiXanh,KDL Sinh thái Thế Giới Xanh,620,150,Vui chơi
+SuoiMo,KDL Suối Mơ (Q9),500,180,Vui chơi
+VinCityGrandPark,Vinhomes Grand Park,650,200,Khu dân cư
+CongVienGrandPark,Công viên Ánh Sáng Grand Park,640,210,Công viên
+BenXeMienTien_New,Bến xe Miền Tây Mới (Dự án),-10,400,Giao thông
+CaoTocTrungLuong,Nút giao Cao tốc Trung Lương,0,450,Giao thông
+ChoBinhChanh,Chợ Bình Chánh,-20,500,Chợ truyền thống
+KCNLeMinhXuan,KCN Lê Minh Xuân,-30,300,Khu công nghiệp
+BvHuyenBinhChanh,Bệnh viện Huyện Bình Chánh,-10,480,Y tế
+ChuaPhatCoDon,Chùa Phật Cô Đơn (Bát Bửu Phật Đài),-40,250,Tâm linh
+KCNPhongPhu,KCN Phong Phú,120,480,Khu công nghiệp
+DHRMIT_CongChinh,ĐH RMIT (Cổng chính),185,490,Đại học
+DHTDT_CongChinh,ĐH Tôn Đức Thắng (Cổng chính),195,485,Đại học
+CresentMall_MatTien,Crescent Mall (Mặt tiền),285,445,TTTM
+HoBanNguyet_CauAnhSao,Hồ Bán Nguyệt & Cầu Ánh Sao,295,455,Vui chơi
+KhuDoThiPhuMyHung,KĐT Phú Mỹ Hưng,250,460,Khu dân cư
+ChoPhuXuan,Chợ Phú Xuân,280,550,Chợ truyền thống
+TrungTamNhaBe,Trung tâm Huyện Nhà Bè,290,580,Hành chính
+KhuCongNghiepHiepPhuoc,KCN Hiệp Phước,300,650,Khu công nghiệp
+CangHiepPhuoc,Cảng Hiệp Phước,320,680,Giao thông
+ThptLeQuyDon,THPT Lê Quý Đôn,165,190,Giáo dục
+ThptMarieCurie,THPT Marie Curie,155,185,Giáo dục
+ThptBuiThiXuan,THPT Bùi Thị Xuân,145,210,Giáo dục
+ThptNguyenThiMinhKhai,THPT Nguyễn Thị Minh Khai,150,195,Giáo dục
+UbndQuan1,UBND Quận 1,195,195,Cơ quan hành chính
+CongAnQuan1,Công an Quận 1,190,205,Cơ quan hành chính
+BaoTangHoChiMinh,Bảo tàng Hồ Chí Minh,250,285,Bảo tàng
+ChuaXaLoi,Chùa Xá Lợi,125,190,Tâm linh
+NhaThoHuyenSy,Nhà thờ Huyện Sỹ,135,240,Tâm linh
+ChoThaiBinh,Chợ Thái Bình,145,255,Chợ truyền thống
+SaiGonSquare,Saigon Square,200,235,TTTM
+BaoTangYhct,Bảo tàng Y học Cổ truyền,95,220,Bảo tàng
+CauOngLanh,Cầu Ông Lãnh,180,280,Giao thông
+BenVanDon,Bến Vân Đồn,190,290,Vui chơi
+KhuVuiChoiKizCiti,KizCiti,170,300,Vui chơi
+NhaThoXomChieu,Nhà thờ Xóm Chiếu,230,310,Tâm linh
+ToaNhaBitexcoMatSau,Tòa nhà Bitexco (Mặt sau),232,262,Tòa nhà
+PhoDiBoNguyenHueDoanGiua,Phố đi bộ Nguyễn Huệ (Đoạn giữa),225,220,Vui chơi
+KhuPhoTayBuiVienHem,Khu phố Tây Bùi Viện (Hẻm),125,265,Vui chơi
+TramYTePhuongBenNghe,Trạm Y Tế Phường Bến Nghé,200,190,Y tế
+TramYTePhuongBenThanh,Trạm Y Tế Phường Bến Thành,160,210,Y tế
+CongAnPhuongDaKao,Công An Phường Đa Kao,180,140,Cơ quan hành chính
+CongAnPhuongTanDinh,Công An Phường Tân Định,150,110,Cơ quan hành chính
+ChoHoaBinh,Chợ Hòa Bình,80,310,Chợ truyền thống
+ChuaQuanAm,Chùa Quan Âm,50,330,Tâm linh
+NhaThoChaTam,Nhà thờ Cha Tam,30,345,Tâm linh
+ChoThiec,Chợ Thiếc,70,280,Chợ truyền thống
+BvRhm,Bệnh viện Răng Hàm Mặt,120,270,Y tế
+BvNguyenTriPhuong,Bệnh viện Nguyễn Tri Phương,90,300,Y tế
+BvTrungVuong,Bệnh viện Trưng Vương,75,255,Y tế
+DhBkhcmCs1,ĐH Bách Khoa (CS1),85,230,Đại học
+ChoNhatTao,Chợ Nhật Tảo,80,265,Chợ truyền thống
+CongVienTanPhuoc,Công viên Tân Phước,70,250,Công viên
+CongVienNuocDamSen,Công viên Nước Đầm Sen,22,252,Vui chơi
+VongXoayCayGo,Vòng xoay Cây Gõ,40,290,Giao thông
+BvQuan11,Bệnh viện Quận 11,35,260,Y tế
+ThptLeHongPhong,THPT Chuyên Lê Hồng Phong,105,280,Giáo dục
+ThptNangKhieu,Phổ thông Năng khiếu,95,270,Giáo dục
+UbndQuan5,UBND Quận 5,85,290,Cơ quan hành chính
+ThptNguyenKhuyen,THPT Nguyễn Khuyến,110,230,Giáo dục
+UbndQuan10,UBND Quận 10,105,245,Cơ quan hành chính
+ChoAnDongThucPham,Chợ An Đông (Khu thực phẩm),112,292,Chợ truyền thống
+BvChoRayKhuB,Bệnh viện Chợ Rẫy (Khu B),48,272,Y tế
+ChoPhamVanHai,Chợ Phạm Văn Hai,90,160,Chợ truyền thống
+CongVienGiaDinh,Công viên Gia Định,140,90,Công viên
+BvThongNhat,Bệnh viện Thống Nhất,85,180,Y tế
+TrungTamTrienLamTanBinh,TBECC Tân Bình,75,185,Trung tâm sự kiện
+ChoHoangHoaTham,Chợ Hoàng Hoa Thám,65,155,Chợ truyền thống
+ChuaPhuocHai,Chùa Phước Hải,130,120,Tâm linh
+NhaThoPhuNhuan,Nhà thờ Phú Nhuận,155,135,Tâm linh
+PhoAmThucPhanXichLong,Phố ẩm thực Phan Xích Long,180,130,Vui chơi
+ChoNguyenDinhChieu,Chợ Nguyễn Đình Chiểu,160,140,Chợ truyền thống
+BigCGoVap,GO! Gò Vấp,160,70,TTTM
+LotteMartGoVap,Lotte Mart Gò Vấp,150,55,TTTM
+ChoGoVap,Chợ Gò Vấp,170,60,Chợ truyền thống
+ChuaKyQuang2,Chùa Kỳ Quang 2,165,45,Tâm linh
+NhaThoHanhThongTay,Nhà thờ Hạnh Thông Tây,135,65,Tâm linh
+CongVienLangHoa,Công viên Làng Hoa,120,50,Công viên
+AeonMallTanPhuCeladon,AEON Mall Tân Phú Celadon,25,180,TTTM
+ChoTanHuong,Chợ Tân Hương,35,195,Chợ truyền thống
+ChuaPhapVan,Chùa Pháp Vân,30,170,Tâm linh
+ThptGoVap,THPT Gò Vấp,150,65,Giáo dục
+ThptNguyenCongTru,THPT Nguyễn Công Trứ,160,75,Giáo dục
+UbndGoVap,UBND Quận Gò Vấp,145,60,Cơ quan hành chính
+SbdQuanKhu7SanTap,SVĐ Quân Khu 7 (Sân tập),88,92,Thể thao
+SanBayTsnGaQuocTe,Sân bay TSN (Ga Quốc Tế),45,28,Giao thông
+SanBayTsnGaQuocNoi,Sân bay TSN (Ga Quốc Nội),55,32,Giao thông
+ChoThiNghe,Chợ Thị Nghè,235,145,Chợ truyền thống
+KhuDuLichVanThanh,Khu du lịch Văn Thánh,285,160,Vui chơi
+BvColumbiaAsia,Bệnh viện Columbia Asia,195,150,Y tế
+ChoPhuong11BinhThanh,Chợ Phường 11 Bình Thạnh,220,95,Chợ truyền thống
+KhuDanCuThaoDien,Khu dân cư Thảo Điền,380,170,Khu dân cư
+TruongQuocTeBis,Trường Quốc tế BIS,390,165,Giáo dục
+ChuaHueNghiem,Chùa Huê Nghiêm,360,200,Tâm linh
+ChoBinhTrung,Chợ Bình Trưng,380,240,Chợ truyền thống
+KhuDoThiAnPhuAnKhanh,KĐT An Phú An Khánh,350,210,Khu dân cư
+KhuCongNghiepCatLai,KCN Cát Lái,450,280,Khu công nghiệp
+CangCatLai,Cảng Cát Lái,480,310,Giao thông
+PhuocLongSpringTown,Phước Long Spring Town,460,190,Khu dân cư
+ChoTangNhonPhu,Chợ Tăng Nhơn Phú,510,160,Chợ truyền thống
+DhGiaoThongVanTaiCs2,ĐH GTVT (Cơ sở 2),490,140,Đại học
+HocVienBcvtCs2,Học viện BCVT (CS2),500,135,Đại học
+BienTienDongNgocNu,Biển Tiên Đồng Ngọc Nữ,560,105,Vui chơi
+KcnSongThan,KCN Sóng Thần (Giáp ranh),460,20,Khu công nghiệp
+ChoNhoThuDuc,Chợ Nhỏ Thủ Đức,470,110,Chợ truyền thống
+NhaThoThuDuc,Nhà thờ Thủ Đức,445,95,Tâm linh
+VincomPlazaLeVanViet,Vincom Plaza Lê Văn Việt,500,150,TTTM
+BvLeVanViet,Bệnh viện Lê Văn Việt,510,145,Y tế
+ThptTranDaiNghiaCs2,THPT Chuyên Trần Đại Nghĩa (CS2),460,210,Giáo dục
+LangDaiHocKtxKhuA,KTX Khu A ĐHQG,535,85,Khu dân cư
+LangDaiHocKtxKhuB,KTX Khu B ĐHQG,545,75,Khu dân cư
+Landmark81CongVien,Công viên Landmark 81 (Khu BBQ),395,145,Công viên
+NhaThoFatimaBinhTrieu,Nhà thờ Fatima Bình Triệu,255,65,Tâm linh
+UbndPhuongThaoDien,UBND Phường Thảo Điền,375,175,Cơ quan hành chính
+UbndPhuongAnPhu,UBND Phường An Phú,360,195,Cơ quan hành chính
+ChoTanKieng,Chợ Tân Kiểng,230,390,Chợ truyền thống
+BvQuan7,Bệnh viện Quận 7,270,410,Y tế
+NhaThoThuanPhat,Nhà thờ Thuận Phát,240,400,Tâm linh
+ChuaThienTon,Chùa Thiên Tôn,220,380,Tâm linh
+BvPhucHoiChucNang,BV Phục hồi Chức năng,150,370,Y tế
+ChoNhiThienDuong,Chợ Nhị Thiên Đường,100,380,Chợ truyền thống
+KhuDanCuBinhHung,Khu dân cư Bình Hưng,140,410,Khu dân cư
+BenXeQuan8KhuB,Bến xe Quận 8 (Khu B),95,400,Giao thông
+ChuaLongHoa,Chùa Long Hoa,115,365,Tâm linh
+ChoPhuXuanNhaBe,Chợ Phú Xuân (Nhà Bè),285,560,Chợ truyền thống
+KhuDoThiDragonCity,KĐT Dragon City,260,510,Khu dân cư
+BvNhaBe,Bệnh viện Huyện Nhà Bè,295,570,Y tế
+BenPhaBinhKhanh,Bến phà Bình Khánh,315,540,Giao thông
+KhuDuLichVamSat,Khu du lịch Vàm Sát,335,690,Sinh thái
+ChoCanGio,Chợ Cần Giờ,390,770,Chợ truyền thống
+BvCanGio,Bệnh viện Huyện Cần Giờ,410,760,Y tế
+KhuBaoTonCanGio,Khu Bảo tồn Thiên nhiên Cần Giờ,360,700,Sinh thái
+ChoDaPhuoc,Chợ Đa Phước,80,470,Chợ truyền thống
+KhuDanCuConic,KDC Conic,110,460,Khu dân cư
+DhVanHienCs2,ĐH Văn Hiến (Cơ sở Nam SG),130,475,Đại học
+DhUefCs2,ĐH UEF (Cơ sở Nam SG),135,480,Đại học
+RmitKyTucXa,Đại học RMIT (Ký túc xá),188,492,Đại học
+PhuMyHungKhuKenhDao,Phú Mỹ Hưng (Khu Kênh Đào),260,465,Khu dân cư
+KhuCheXuatTanThuan2,KCX Tân Thuận (Cổng 2),255,385,Khu công nghiệp
+TramYTePhuongPhuMy,Trạm Y Tế Phường Phú Mỹ,260,490,Y tế
+CongAnPhuongTanPhong,Công An Phường Tân Phong,240,460,Cơ quan hành chính
+UbndXaBinhKhanh,UBND Xã Bình Khánh,320,545,Cơ quan hành chính
+TramYTeXaCanThanh,Trạm Y Tế Thị Trấn Cần Thạnh,395,780,Y tế
+ChoTanChanhHiep,Chợ Tân Chánh Hiệp,60,10,Chợ truyền thống
+CvpmQuangTrungCong2,CVPM Quang Trung (Cổng 2),55,35,Khu công nghệ
+BvQuan12,Bệnh viện Quận 12,80,15,Y tế
+TuVienKhanhAn,Tu viện Khánh An,150,5,Tâm linh
+NgaTuGa,Ngã tư Ga,160,20,Giao thông
+ChoThanhXuan,Chợ Thạnh Xuân,180,10,Chợ truyền thống
+KhuDuLichBenXua,Khu du lịch Bến Xưa,190,30,Vui chơi
+ChoBaDiem2,Chợ Bà Điểm 2,30,40,Chợ truyền thống
+BvHocMon,Bệnh viện Đa khoa Hóc Môn,25,-5,Y tế
+NgaBaGiong,Khu Di tích Ngã Ba Giồng,10,-15,Di tích lịch sử
+ChoHocMonDauMoi,Chợ đầu mối Hóc Môn,35,-15,Chợ truyền thống
+ChuaHoangPhapCongPhu,Chùa Hoằng Pháp (Cổng phụ),18,12,Tâm linh
+BvCuChi,Bệnh viện Đa khoa KV Củ Chi,-15,-50,Y tế
+ChoCuChi,Chợ Củ Chi,-25,-55,Chợ truyền thống
+KcnTayBacCuChiMoRong,KCN Tây Bắc Củ Chi (Mở rộng),-5,-25,Khu công nghiệp
+BenXeCuChi,Bến xe Củ Chi,-20,-45,Giao thông
+AeonMallBinhTanBaiXe,Aeon Mall Bình Tân (Bãi xe),12,305,TTTM
+ChoBinhTriDongB,Chợ Bình Trị Đông B,18,240,Chợ truyền thống
+KcnTanTaoKhuMoRong,KCN Tân Tạo (Khu Mở Rộng),2,215,Khu công nghiệp
+BvBinhTan,Bệnh viện Quận Bình Tân,25,270,Y tế
+CongVienPhuLamCong2,Công viên Phú Lâm (Cổng 2),22,285,Công viên
+BenXeAnSuongCongSau,Bến xe An Sương (Cổng sau),38,22,Giao thông
+UbndXaTanThongHoi,UBND Xã Tân Thông Hội,-10,-40,Cơ quan hành chính
+CongAnXaPhuocHiep,Công An Xã Phước Hiệp,-30,-65,Cơ quan hành chính
+CaPheHighlandsCoffeeLeVanSy67,Cà phê Highlands Coffee - Lê Văn Sỹ 67,-7,-32,F&B
+CongVienCayXanh,Công viên Cây xanh,235,679,Công
+BenhVienAKhoaQuangTrung,Bệnh viện Đa khoa - Quang Trung,-6,286,Y tế
+ChungCuJamila,Chung cư Jamila,431,72,Khu dân cư
+SieuThiEmartPhamVanOng,Siêu thị Emart - Phạm Văn Đồng,66,372,Thương mại
+SieuThiWinmartPhamVanOng,Siêu thị Winmart - Phạm Văn Đồng,234,171,Thương mại
+TruongThptBuiThiXuan,Trường THPT Bùi Thị Xuân,110,237,Giáo dục
+SieuThiMmMegaMarketVoVanKiet,Siêu thị MM Mega Market - Võ Văn Kiệt,567,203,Thương mại
+BenhVienMatNguyenOanh93,Bệnh viện Mắt - Nguyễn Oanh 93,430,125,Y tế
+NganHangSacombankLeLoi,Ngân hàng Sacombank - Lê Lợi,140,244,Tài chính
+CongVienBoSong,Công viên Bờ sông,469,222,Công
+BenhVienAKhoaNguyenVanLinh38,Bệnh viện Đa khoa - Nguyễn Văn Linh 38,54,179,Y tế
+CongVienBoSong,Công viên Bờ sông,20,305,Công
+CongVienBoSong19,Công viên Bờ sông 19,482,142,Công
+CuaHangGs25CachMangThang880,Cửa hàng GS25 - Cách Mạng Tháng 8 80,106,324,Thương mại
+TruongThptLeHongPhong,Trường THPT Lê Hồng Phong,238,82,Giáo dục
+BenhVienNhaKhoaMaiChiTho,Bệnh viện Nha khoa - Mai Chí Thọ,62,448,Y tế
+TruongThptLeHongPhong29,Trường THPT Lê Hồng Phong 29,1,268,Giáo dục
+CongVienSinhThai,Công viên Sinh thái,-13,433,Công
+CaPheTheCoffeeHouseNguyenVanLinh,Cà phê The Coffee House - Nguyễn Văn Linh,70,345,F&B
+SieuThiLotteMartTranHungAo20,Siêu thị Lotte Mart - Trần Hưng Đạo 20,-35,-16,Thương mại
+BenhVienQuocTeQuangTrung,Bệnh viện Quốc tế - Quang Trung,247,443,Y tế
+TruongThptNguyenThiMinhKhai,Trường THPT Nguyễn Thị Minh Khai,40,201,Giáo dục
+BenhVienMatIenBienPhu,Bệnh viện Mắt - Điện Biên Phủ,324,134,Y tế
+NganHangVietinbankLeLoi,Ngân hàng VietinBank - Lê Lợi,85,275,Tài chính
+CaPhePhucLongNguyenOanh,Cà phê Phúc Long - Nguyễn Oanh,91,269,F&B
+CongVienBoSong24,Công viên Bờ sông 24,-10,-23,Công
+TruongThptGiaInh,Trường THPT Gia Định,131,43,Giáo dục
+CongVienSinhThai,Công viên Sinh thái,182,174,Công
+CongVienSinhThai27,Công viên Sinh thái 27,241,476,Công
+CuaHangMinistopNguyenOanh,Cửa hàng MiniStop - Nguyễn Oanh,16,359,Thương mại
+SieuThiLotteMartQuangTrung,Siêu thị Lotte Mart - Quang Trung,53,304,Thương mại
+CuaHangFamilymartIenBienPhu,Cửa hàng FamilyMart - Điện Biên Phủ,315,145,Thương mại
+CongVienBoSong93,Công viên Bờ sông 93,104,259,Công
+ChungCuHimLam,Chung cư Him Lam,186,27,Khu dân cư
+ChungCuEhome,Chung cư Ehome,125,279,Khu dân cư
+SieuThiEmartNguyenVanLinh,Siêu thị Emart - Nguyễn Văn Linh,226,488,Thương mại
+NganHangMbbankLeVanSy,Ngân hàng MBBank - Lê Văn Sỹ,214,191,Tài chính
+ChungCuCityland99,Chung cư Cityland 99,262,132,Khu dân cư
+SieuThiCoopmartVoVanKiet,Siêu thị Co.opmart - Võ Văn Kiệt,281,398,Thương mại
+TruongTieuHocNguyenBinhKhiem61,Trường Tiểu học Nguyễn Bỉnh Khiêm 61,274,164,Giáo dục
+CuaHangBachHoaXanhNguyenTrai,Cửa hàng Bách Hóa Xanh - Nguyễn Trãi,13,-38,Thương mại
+ChungCuSunriseCity,Chung cư Sunrise City,83,104,Khu dân cư
+NganHangVietcombankCachMangThang8,Ngân hàng Vietcombank - Cách Mạng Tháng 8,173,73,Tài chính
+TruongTieuHocInhTienHoang,Trường Tiểu học Đinh Tiên Hoàng,47,207,Giáo dục
+CuaHangMinistopPhamVanOng,Cửa hàng MiniStop - Phạm Văn Đồng,-35,19,Thương mại
+NganHangAgribankTranHungAo,Ngân hàng Agribank - Trần Hưng Đạo,42,155,Tài chính
+CongVienSinhThai,Công viên Sinh thái,91,27,Công
+NganHangAcbCachMangThang8,Ngân hàng ACB - Cách Mạng Tháng 8,119,194,Tài chính
+NganHangAcbLeVanSy69,Ngân hàng ACB - Lê Văn Sỹ 69,311,368,Tài chính
+SieuThiMmMegaMarketLeVanSy,Siêu thị MM Mega Market - Lê Văn Sỹ,4,-37,Thương mại
+CaPhePassioLeLoi,Cà phê Passio - Lê Lợi,245,601,F&B
+NganHangVietcombankIenBienPhu,Ngân hàng Vietcombank - Điện Biên Phủ,79,488,Tài chính
+NganHangTechcombankMaiChiTho,Ngân hàng Techcombank - Mai Chí Thọ,29,-20,Tài chính
+TruongThptNguyenThiMinhKhai,Trường THPT Nguyễn Thị Minh Khai,-12,33,Giáo dục
+CaPhePhucLongTranHungAo,Cà phê Phúc Long - Trần Hưng Đạo,164,93,F&B
+TruongTieuHocInhTienHoang,Trường Tiểu học Đinh Tiên Hoàng,248,38,Giáo dục
+CuaHangFamilymartMaiChiTho,Cửa hàng FamilyMart - Mai Chí Thọ,407,172,Thương mại
+ChungCuEhome,Chung cư Ehome,127,286,Khu dân cư
+CuaHangMinistopMaiChiTho71,Cửa hàng MiniStop - Mai Chí Thọ 71,309,273,Thương mại
+SieuThiLotteMartVoVanKiet,Siêu thị Lotte Mart - Võ Văn Kiệt,210,41,Thương mại
+ChungCuHimLam,Chung cư Him Lam,254,107,Khu dân cư
+CongVienThieuNhi,Công viên Thiếu nhi,317,351,Công
+TruongThptTranAiNghia,Trường THPT Trần Đại Nghĩa,58,266,Giáo dục
+ChungCuSunriseCity22,Chung cư Sunrise City 22,137,42,Khu dân cư
+TruongThptLeHongPhong,Trường THPT Lê Hồng Phong,110,361,Giáo dục
+CuaHangGs25LeLoi,Cửa hàng GS25 - Lê Lợi,29,-1,Thương mại
+CaPhePhucLongPhamVanOng,Cà phê Phúc Long - Phạm Văn Đồng,-17,2,F&B
+NganHangVietinbankQuangTrung,Ngân hàng VietinBank - Quang Trung,339,733,Tài chính
+CuaHangBachHoaXanhNguyenVanLinh,Cửa hàng Bách Hóa Xanh - Nguyễn Văn Linh,70,118,Thương mại
+SieuThiGoPhamVanOng84,Siêu thị GO! - Phạm Văn Đồng 84,342,508,Thương mại
+NganHangAgribankNguyenTrai,Ngân hàng Agribank - Nguyễn Trãi,11,156,Tài chính
+CuaHangCircleKVoVanKiet,Cửa hàng Circle K - Võ Văn Kiệt,234,716,Thương mại
+TruongThptNguyenThiMinhKhai13,Trường THPT Nguyễn Thị Minh Khai 13,77,257,Giáo dục
+BenhVienNhaKhoaIenBienPhu,Bệnh viện Nha khoa - Điện Biên Phủ,177,179,Y tế
+CuaHangGs25LeLoi,Cửa hàng GS25 - Lê Lợi,190,398,Thương mại
+NganHangVietinbankLeLoi,Ngân hàng VietinBank - Lê Lợi,267,654,Tài chính
+BenhVienPhongKhamAKhoaVoVanKiet,Bệnh viện Phòng khám đa khoa - Võ Văn Kiệt,126,141,Y tế
+TruongTieuHocInhTienHoang,Trường Tiểu học Đinh Tiên Hoàng,279,469,Giáo dục
+CuaHangGs25MaiChiTho,Cửa hàng GS25 - Mai Chí Thọ,361,700,Thương mại
+CuaHangGs25TranHungAo,Cửa hàng GS25 - Trần Hưng Đạo,185,142,Thương mại
+SieuThiMmMegaMarketIenBienPhu,Siêu thị MM Mega Market - Điện Biên Phủ,60,338,Thương mại
+NganHangVietinbankVoVanKiet55,Ngân hàng VietinBank - Võ Văn Kiệt 55,351,623,Tài chính
+CongVienCayXanh,Công viên Cây xanh,536,164,Công
+CaPhePhucLongQuangTrung,Cà phê Phúc Long - Quang Trung,69,425,F&B
+CuaHang7elevenPhamVanOng99,Cửa hàng 7-Eleven - Phạm Văn Đồng 99,-32,23,Thương mại
+TruongTieuHocNguyenBinhKhiem71,Trường Tiểu học Nguyễn Bỉnh Khiêm 71,116,48,Giáo dục
+CaPhePassioIenBienPhu,Cà phê Passio - Điện Biên Phủ,114,248,F&B
+TruongThptBuiThiXuan35,Trường THPT Bùi Thị Xuân 35,246,32,Giáo dục
+CaPhePassioTranHungAo73,Cà phê Passio - Trần Hưng Đạo 73,47,471,F&B
+ChungCuVinhomes,Chung cư Vinhomes,311,679,Khu dân cư
+TruongThptNguyenThuongHien41,Trường THPT Nguyễn Thượng Hiền 41,142,179,Giáo dục
+TruongTieuHocInhTienHoang,Trường Tiểu học Đinh Tiên Hoàng,66,247,Giáo dục
+TruongTieuHocHoaBinh,Trường Tiểu học Hòa Bình,33,301,Giáo dục
+NganHangBidvCachMangThang818,Ngân hàng BIDV - Cách Mạng Tháng 8 18,376,515,Tài chính
+CaPheHighlandsCoffeeVoVanKiet,Cà phê Highlands Coffee - Võ Văn Kiệt,150,100,F&B
+CuaHangMinistopPhamVanOng55,Cửa hàng MiniStop - Phạm Văn Đồng 55,369,113,Thương mại
+TruongThptNguyenThiMinhKhai69,Trường THPT Nguyễn Thị Minh Khai 69,-35,17,Giáo dục
+TruongTieuHocTranHungAo,Trường Tiểu học Trần Hưng Đạo,87,96,Giáo dục
+TruongThptNguyenThuongHien,Trường THPT Nguyễn Thượng Hiền,60,152,Giáo dục
+CuaHangCircleKMaiChiTho16,Cửa hàng Circle K - Mai Chí Thọ 16,-5,-43,Thương mại
+CuaHang7elevenIenBienPhu94,Cửa hàng 7-Eleven - Điện Biên Phủ 94,101,236,Thương mại
+CaPhePassioNguyenVanLinh,Cà phê Passio - Nguyễn Văn Linh,569,102,F&B
+CongVienSinhThai,Công viên Sinh thái,221,238,Công
+CongVienNoiKhu,Công viên Nội khu,464,248,Công
+CaPheKatinatMaiChiTho,Cà phê Katinat - Mai Chí Thọ,217,131,F&B
+CongVienNoiKhu94,Công viên Nội khu 94,100,220,Công
+TruongThptLeHongPhong,Trường THPT Lê Hồng Phong,15,127,Giáo dục
+CaPheTrungNguyenLeLoi,Cà phê Trung Nguyên - Lê Lợi,29,131,F&B
+TruongTieuHocNguyenBinhKhiem,Trường Tiểu học Nguyễn Bỉnh Khiêm,99,298,Giáo dục
+ChungCuVinhomes,Chung cư Vinhomes,99,146,Khu dân cư
+SieuThiLotteMartTranHungAo,Siêu thị Lotte Mart - Trần Hưng Đạo,215,75,Thương mại
+NganHangBidvNguyenVanLinh50,Ngân hàng BIDV - Nguyễn Văn Linh 50,430,270,Tài chính
+NganHangTechcombankNguyenOanh,Ngân hàng Techcombank - Nguyễn Oanh,3,414,Tài chính
+CaPhePassioQuangTrung,Cà phê Passio - Quang Trung,331,99,F&B
+CaPheHighlandsCoffeeNguyenOanh,Cà phê Highlands Coffee - Nguyễn Oanh,119,231,F&B
+CaPheKatinatCachMangThang8,Cà phê Katinat - Cách Mạng Tháng 8,333,162,F&B
+BenhVienNhaKhoaLeVanSy,Bệnh viện Nha khoa - Lê Văn Sỹ,52,112,Y tế
+TruongThptLeQuyOn,Trường THPT Lê Quý Đôn,165,67,Giáo dục
+SieuThiWinmartCachMangThang824,Siêu thị Winmart - Cách Mạng Tháng 8 24,254,590,Thương mại
+BenhVienMatLeLoi33,Bệnh viện Mắt - Lê Lợi 33,242,214,Y tế
+CongVienSinhThai,Công viên Sinh thái,367,510,Công
+NganHangMbbankTranHungAo55,Ngân hàng MBBank - Trần Hưng Đạo 55,260,162,Tài chính
+ChungCuHimLam,Chung cư Him Lam,222,245,Khu dân cư
+SieuThiWinmartCachMangThang8,Siêu thị Winmart - Cách Mạng Tháng 8,183,50,Thương mại
+CuaHangGs25QuangTrung,Cửa hàng GS25 - Quang Trung,-9,296,Thương mại
+BenhVienAKhoaVoVanKiet,Bệnh viện Đa khoa - Võ Văn Kiệt,65,339,Y tế
+CuaHangBachHoaXanhQuangTrung,Cửa hàng Bách Hóa Xanh - Quang Trung,38,-16,Thương mại
+NganHangTechcombankTranHungAo,Ngân hàng Techcombank - Trần Hưng Đạo,383,584,Tài chính
+BenhVienPhongKhamAKhoaLeVanSy,Bệnh viện Phòng khám đa khoa - Lê Văn Sỹ,542,156,Y tế
+BenhVienPhongKhamAKhoaNguyenTrai89,Bệnh viện Phòng khám đa khoa - Nguyễn Trãi 89,221,540,Y tế
+NganHangVietinbankVoVanKiet45,Ngân hàng VietinBank - Võ Văn Kiệt 45,158,90,Tài chính
+CuaHangFamilymartLeLoi22,Cửa hàng FamilyMart - Lê Lợi 22,243,100,Thương mại
+CaPheHighlandsCoffeeLeVanSy43,Cà phê Highlands Coffee - Lê Văn Sỹ 43,388,699,F&B
+BenhVienMatTranHungAo,Bệnh viện Mắt - Trần Hưng Đạo,77,206,Y tế
+TruongThptNguyenThiMinhKhai,Trường THPT Nguyễn Thị Minh Khai,65,255,Giáo dục
+SieuThiEmartVoVanKiet48,Siêu thị Emart - Võ Văn Kiệt 48,318,417,Thương mại
+NganHangAgribankPhamVanOng23,Ngân hàng Agribank - Phạm Văn Đồng 23,184,10,Tài chính
+NganHangSacombankPhamVanOng29,Ngân hàng Sacombank - Phạm Văn Đồng 29,49,423,Tài chính
+ChungCuNovaland78,Chung cư Novaland 78,-18,370,Khu dân cư
+CaPhePhucLongNguyenTrai,Cà phê Phúc Long - Nguyễn Trãi,281,430,F&B
+ChungCuJamila,Chung cư Jamila,404,110,Khu dân cư
+TruongThptBuiThiXuan,Trường THPT Bùi Thị Xuân,295,519,Giáo dục
+ChungCuVinhomes,Chung cư Vinhomes,225,161,Khu dân cư
+NganHangSacombankNguyenTrai,Ngân hàng Sacombank - Nguyễn Trãi,169,42,Tài chính
+CaPhePassioIenBienPhu,Cà phê Passio - Điện Biên Phủ,347,127,F&B
+CongVienNoiKhu,Công viên Nội khu,37,112,Công
+SieuThiEmartLeVanSy,Siêu thị Emart - Lê Văn Sỹ,134,71,Thương mại
+ChungCuEhome,Chung cư Ehome,196,419,Khu dân cư
+CuaHangFamilymartNguyenTrai,Cửa hàng FamilyMart - Nguyễn Trãi,112,72,Thương mại
+CaPhePhucLongLeVanSy10,Cà phê Phúc Long - Lê Văn Sỹ 10,312,256,F&B
+NganHangMbbankNguyenTrai69,Ngân hàng MBBank - Nguyễn Trãi 69,295,486,Tài chính
+BenhVienMatVoVanKiet,Bệnh viện Mắt - Võ Văn Kiệt,202,254,Y tế
+SieuThiWinmartNguyenTrai,Siêu thị Winmart - Nguyễn Trãi,390,134,Thương mại
+ChungCuMasteri65,Chung cư Masteri 65,210,149,Khu dân cư
+SieuThiEmartLeLoi,Siêu thị Emart - Lê Lợi,46,-15,Thương mại
+ChungCuSunriseCity,Chung cư Sunrise City,23,207,Khu dân cư
+ChungCuCityland,Chung cư Cityland,366,158,Khu dân cư
+CongVienBoSong,Công viên Bờ sông,233,71,Công
+CaPheTrungNguyenCachMangThang880,Cà phê Trung Nguyên - Cách Mạng Tháng 8 80,134,92,F&B
+SieuThiLotteMartNguyenTrai33,Siêu thị Lotte Mart - Nguyễn Trãi 33,35,-48,Thương mại
+CongVienThieuNhi51,Công viên Thiếu nhi 51,86,346,Công
+CuaHangBachHoaXanhCachMangThang853,Cửa hàng Bách Hóa Xanh - Cách Mạng Tháng 8 53,-4,-19,Thương mại
+CuaHangBachHoaXanhNguyenTrai71,Cửa hàng Bách Hóa Xanh - Nguyễn Trãi 71,109,210,Thương mại
+SieuThiLotteMartIenBienPhu,Siêu thị Lotte Mart - Điện Biên Phủ,230,100,Thương mại
+CongVienNoiKhu,Công viên Nội khu,556,139,Công
+CuaHangBachHoaXanhVoVanKiet,Cửa hàng Bách Hóa Xanh - Võ Văn Kiệt,81,342,Thương mại
+NganHangMbbankNguyenVanLinh,Ngân hàng MBBank - Nguyễn Văn Linh,174,223,Tài chính
+CaPhePhucLongTranHungAo,Cà phê Phúc Long - Trần Hưng Đạo,327,608,F&B
+TruongTieuHocHoaBinh,Trường Tiểu học Hòa Bình,95,89,Giáo dục
+BenhVienAKhoaNguyenOanh,Bệnh viện Đa khoa - Nguyễn Oanh,231,171,Y tế
+ChungCuVinhomes,Chung cư Vinhomes,82,288,Khu dân cư
+TruongThptBuiThiXuan77,Trường THPT Bùi Thị Xuân 77,156,105,Giáo dục
+ChungCuSunriseCity,Chung cư Sunrise City,-30,18,Khu dân cư
+CongVienCayXanh,Công viên Cây xanh,48,-12,Công
+TruongTieuHocHoaBinh44,Trường Tiểu học Hòa Bình 44,227,195,Giáo dục
+CaPhePassioLeVanSy,Cà phê Passio - Lê Văn Sỹ,261,481,F&B
+TruongThptMarieCurie,Trường THPT Marie Curie,123,356,Giáo dục
+CaPheTrungNguyenPhamVanOng88,Cà phê Trung Nguyên - Phạm Văn Đồng 88,17,-44,F&B
+SieuThiCoopmartQuangTrung,Siêu thị Co.opmart - Quang Trung,56,386,Thương mại
+TruongTieuHocTranHungAo,Trường Tiểu học Trần Hưng Đạo,234,280,Giáo dục
+TruongTieuHocNguyenBinhKhiem,Trường Tiểu học Nguyễn Bỉnh Khiêm,199,13,Giáo dục
+SieuThiMmMegaMarketNguyenOanh,Siêu thị MM Mega Market - Nguyễn Oanh,63,343,Thương mại
+TruongTieuHocKetOan,Trường Tiểu học Kết Đoàn,65,141,Giáo dục
+NganHangAgribankLeLoi,Ngân hàng Agribank - Lê Lợi,401,266,Tài chính
+TruongThptNguyenThuongHien7,Trường THPT Nguyễn Thượng Hiền 7,197,83,Giáo dục
+CaPhePassioPhamVanOng,Cà phê Passio - Phạm Văn Đồng,281,106,F&B
+ChungCuSunriseCity,Chung cư Sunrise City,225,195,Khu dân cư
+TruongThptLeHongPhong94,Trường THPT Lê Hồng Phong 94,315,482,Giáo dục
+NganHangSacombankVoVanKiet,Ngân hàng Sacombank - Võ Văn Kiệt,66,113,Tài chính
+ChungCuSunriseCity45,Chung cư Sunrise City 45,38,219,Khu dân cư
+NganHangSacombankCachMangThang8,Ngân hàng Sacombank - Cách Mạng Tháng 8,32,349,Tài chính
+ChungCuSunriseCity,Chung cư Sunrise City,290,622,Khu dân cư
+CaPheHighlandsCoffeeQuangTrung,Cà phê Highlands Coffee - Quang Trung,138,354,F&B
+TruongTieuHocHoaBinh,Trường Tiểu học Hòa Bình,81,121,Giáo dục
+CaPhePassioLeVanSy37,Cà phê Passio - Lê Văn Sỹ 37,315,703,F&B
+BenhVienMatLeLoi,Bệnh viện Mắt - Lê Lợi,43,111,Y tế
+SieuThiMmMegaMarketCachMangThang8,Siêu thị MM Mega Market - Cách Mạng Tháng 8,71,216,Thương mại
+CuaHangFamilymartPhamVanOng,Cửa hàng FamilyMart - Phạm Văn Đồng,90,116,Thương mại
+BenhVienNhaKhoaMaiChiTho,Bệnh viện Nha khoa - Mai Chí Thọ,-34,-14,Y tế
+CongVienNoiKhu78,Công viên Nội khu 78,117,81,Công
+CuaHangGs25MaiChiTho34,Cửa hàng GS25 - Mai Chí Thọ 34,174,193,Thương mại
+ChungCuVinhomes74,Chung cư Vinhomes 74,263,135,Khu dân cư
+CuaHangCircleKNguyenTrai55,Cửa hàng Circle K - Nguyễn Trãi 55,317,307,Thương mại
+NganHangMbbankNguyenTrai1,Ngân hàng MBBank - Nguyễn Trãi 1,186,172,Tài chính
+ChungCuNovaland69,Chung cư Novaland 69,350,695,Khu dân cư
+CongVienCayXanh,Công viên Cây xanh,271,314,Công
+CuaHang7elevenTranHungAo62,Cửa hàng 7-Eleven - Trần Hưng Đạo 62,267,539,Thương mại
+ChungCuNovaland,Chung cư Novaland,365,98,Khu dân cư
+TruongThptMarieCurie,Trường THPT Marie Curie,303,294,Giáo dục
+ChungCuCityland,Chung cư Cityland,239,45,Khu dân cư
+CaPheHighlandsCoffeeMaiChiTho,Cà phê Highlands Coffee - Mai Chí Thọ,236,650,F&B
+SieuThiLotteMartPhamVanOng97,Siêu thị Lotte Mart - Phạm Văn Đồng 97,163,10,Thương mại
+TruongThptMarieCurie,Trường THPT Marie Curie,364,746,Giáo dục
+TruongTieuHocKetOan43,Trường Tiểu học Kết Đoàn 43,66,324,Giáo dục
+CuaHangBachHoaXanhNguyenTrai,Cửa hàng Bách Hóa Xanh - Nguyễn Trãi,29,-26,Thương mại
+TruongTieuHocTranHungAo,Trường Tiểu học Trần Hưng Đạo,136,344,Giáo dục
+NganHangSacombankPhamVanOng,Ngân hàng Sacombank - Phạm Văn Đồng,287,526,Tài chính
+CaPheTrungNguyenMaiChiTho50,Cà phê Trung Nguyên - Mai Chí Thọ 50,180,178,F&B
+CongVienThieuNhi,Công viên Thiếu nhi,84,355,Công
+NganHangVietcombankPhamVanOng,Ngân hàng Vietcombank - Phạm Văn Đồng,23,281,Tài chính
+TruongTieuHocLeNgocHan,Trường Tiểu học Lê Ngọc Hân,154,35,Giáo dục
+SieuThiEmartNguyenVanLinh,Siêu thị Emart - Nguyễn Văn Linh,31,266,Thương mại
+ChungCuEhome,Chung cư Ehome,78,282,Khu dân cư
+CuaHangGs25NguyenOanh68,Cửa hàng GS25 - Nguyễn Oanh 68,-8,-8,Thương mại
+TruongTieuHocHoaBinh,Trường Tiểu học Hòa Bình,139,173,Giáo dục
+CongVienSinhThai,Công viên Sinh thái,280,309,Công
+SieuThiWinmartNguyenVanLinh,Siêu thị Winmart - Nguyễn Văn Linh,43,276,Thương mại
+TruongThptNguyenThuongHien,Trường THPT Nguyễn Thượng Hiền,19,329,Giáo dục
+TruongTieuHocKetOan,Trường Tiểu học Kết Đoàn,80,269,Giáo dục
+CaPheKatinatPhamVanOng,Cà phê Katinat - Phạm Văn Đồng,347,179,F&B
+CuaHangMinistopNguyenTrai,Cửa hàng MiniStop - Nguyễn Trãi,73,187,Thương mại
+SieuThiLotteMartLeLoi62,Siêu thị Lotte Mart - Lê Lợi 62,88,172,Thương mại
+CongVienBoSong,Công viên Bờ sông,374,675,Công
+CuaHangGs25MaiChiTho62,Cửa hàng GS25 - Mai Chí Thọ 62,31,368,Thương mại
+CongVienSinhThai,Công viên Sinh thái,412,184,Công
+TruongThptGiaInh,Trường THPT Gia Định,176,224,Giáo dục
+CuaHangGs25MaiChiTho,Cửa hàng GS25 - Mai Chí Thọ,89,162,Thương mại
+TruongThptMarieCurie,Trường THPT Marie Curie,-10,24,Giáo dục
+TruongThptNguyenThiMinhKhai26,Trường THPT Nguyễn Thị Minh Khai 26,458,100,Giáo dục
+CuaHangBachHoaXanhNguyenVanLinh,Cửa hàng Bách Hóa Xanh - Nguyễn Văn Linh,169,181,Thương mại
+BenhVienAKhoaTranHungAo,Bệnh viện Đa khoa - Trần Hưng Đạo,-10,379,Y tế
+NganHangAcbIenBienPhu54,Ngân hàng ACB - Điện Biên Phủ 54,-19,-16,Tài chính
+SieuThiMmMegaMarketCachMangThang8,Siêu thị MM Mega Market - Cách Mạng Tháng 8,12,175,Thương mại
+NganHangAcbNguyenTrai,Ngân hàng ACB - Nguyễn Trãi,40,-39,Tài chính
+CaPheTrungNguyenCachMangThang812,Cà phê Trung Nguyên - Cách Mạng Tháng 8 12,342,707,F&B
+ChungCuEhome49,Chung cư Ehome 49,358,741,Khu dân cư
+TruongTieuHocInhTienHoang,Trường Tiểu học Đinh Tiên Hoàng,135,138,Giáo dục
+CongVienNoiKhu,Công viên Nội khu,206,23,Công
+ChungCuMasteri,Chung cư Masteri,168,102,Khu dân cư
+TruongTieuHocLeNgocHan,Trường Tiểu học Lê Ngọc Hân,192,112,Giáo dục
+TruongThptNguyenThiMinhKhai,Trường THPT Nguyễn Thị Minh Khai,91,16,Giáo dục
+TruongTieuHocLeNgocHan,Trường Tiểu học Lê Ngọc Hân,51,341,Giáo dục
+TruongThptGiaInh,Trường THPT Gia Định,34,31,Giáo dục
+NganHangVietcombankCachMangThang881,Ngân hàng Vietcombank - Cách Mạng Tháng 8 81,-24,405,Tài chính
+SieuThiLotteMartNguyenOanh,Siêu thị Lotte Mart - Nguyễn Oanh,167,260,Thương mại
+TruongTieuHocTranHungAo,Trường Tiểu học Trần Hưng Đạo,22,113,Giáo dục
+TruongThptNguyenThiMinhKhai84,Trường THPT Nguyễn Thị Minh Khai 84,213,704,Giáo dục
+TruongThptLeQuyOn,Trường THPT Lê Quý Đôn,139,166,Giáo dục
+SieuThiLotteMartPhamVanOng,Siêu thị Lotte Mart - Phạm Văn Đồng,241,353,Thương mại
+SieuThiLotteMartNguyenVanLinh29,Siêu thị Lotte Mart - Nguyễn Văn Linh 29,299,622,Thương mại
+CuaHangFamilymartIenBienPhu,Cửa hàng FamilyMart - Điện Biên Phủ,181,173,Thương mại
+CongVienNoiKhu,Công viên Nội khu,148,211,Công
+CongVienBoSong,Công viên Bờ sông,158,218,Công
+SieuThiCoopmartQuangTrung,Siêu thị Co.opmart - Quang Trung,34,-35,Thương mại
+ChungCuHimLam,Chung cư Him Lam,70,255,Khu dân cư
+CuaHang7elevenNguyenTrai,Cửa hàng 7-Eleven - Nguyễn Trãi,556,68,Thương mại
+SieuThiCoopmartVoVanKiet,Siêu thị Co.opmart - Võ Văn Kiệt,73,358,Thương mại
+TruongTieuHocLeNgocHan98,Trường Tiểu học Lê Ngọc Hân 98,253,411,Giáo dục
+TruongTieuHocTranHungAo,Trường Tiểu học Trần Hưng Đạo,50,-11,Giáo dục
+CaPheHighlandsCoffeeLeVanSy58,Cà phê Highlands Coffee - Lê Văn Sỹ 58,234,208,F&B
+SieuThiLotteMartPhamVanOng,Siêu thị Lotte Mart - Phạm Văn Đồng,211,376,Thương mại
+BenhVienThamMyPhamVanOng,Bệnh viện Thẩm mỹ - Phạm Văn Đồng,522,93,Y tế
+SieuThiCoopmartNguyenVanLinh67,Siêu thị Co.opmart - Nguyễn Văn Linh 67,32,337,Thương mại
+NganHangVietinbankQuangTrung,Ngân hàng VietinBank - Quang Trung,340,533,Tài chính
+TruongTieuHocTranHungAo,Trường Tiểu học Trần Hưng Đạo,154,125,Giáo dục
+CuaHangMinistopTranHungAo49,Cửa hàng MiniStop - Trần Hưng Đạo 49,16,23,Thương mại
+TruongThptTranAiNghia89,Trường THPT Trần Đại Nghĩa 89,286,715,Giáo dục
+TruongThptBuiThiXuan,Trường THPT Bùi Thị Xuân,302,602,Giáo dục
+CuaHangCircleKLeLoi91,Cửa hàng Circle K - Lê Lợi 91,45,115,Thương mại
+CuaHangMinistopCachMangThang887,Cửa hàng MiniStop - Cách Mạng Tháng 8 87,298,367,Thương mại
+CaPhePhucLongCachMangThang8,Cà phê Phúc Long - Cách Mạng Tháng 8,410,128,F&B
+SieuThiCoopmartNguyenTrai56,Siêu thị Co.opmart - Nguyễn Trãi 56,26,-12,Thương mại
+SieuThiEmartQuangTrung57,Siêu thị Emart - Quang Trung 57,125,266,Thương mại
+CongVienSinhThai,Công viên Sinh thái,207,213,Công
+ChungCuSunriseCity,Chung cư Sunrise City,10,273,Khu dân cư
+CaPheTrungNguyenIenBienPhu,Cà phê Trung Nguyên - Điện Biên Phủ,-11,304,F&B
+TruongTieuHocKetOan,Trường Tiểu học Kết Đoàn,76,269,Giáo dục
+CuaHangGs25NguyenVanLinh,Cửa hàng GS25 - Nguyễn Văn Linh,248,168,Thương mại
+CuaHangBachHoaXanhLeVanSy59,Cửa hàng Bách Hóa Xanh - Lê Văn Sỹ 59,171,79,Thương mại
+CuaHangBachHoaXanhCachMangThang8,Cửa hàng Bách Hóa Xanh - Cách Mạng Tháng 8,58,345,Thương mại
+CaPhePassioPhamVanOng,Cà phê Passio - Phạm Văn Đồng,10,26,F&B
+CuaHangMinistopMaiChiTho,Cửa hàng MiniStop - Mai Chí Thọ,58,163,Thương mại
+BenhVienPhongKhamAKhoaLeVanSy,Bệnh viện Phòng khám đa khoa - Lê Văn Sỹ,-24,-11,Y tế
+SieuThiMmMegaMarketQuangTrung,Siêu thị MM Mega Market - Quang Trung,-22,440,Thương mại
+CuaHangBachHoaXanhIenBienPhu24,Cửa hàng Bách Hóa Xanh - Điện Biên Phủ 24,127,246,Thương mại
+BenhVienQuocTeNguyenTrai,Bệnh viện Quốc tế - Nguyễn Trãi,318,717,Y tế
+NganHangBidvNguyenTrai,Ngân hàng BIDV - Nguyễn Trãi,521,256,Tài chính
+NganHangAcbNguyenTrai,Ngân hàng ACB - Nguyễn Trãi,52,374,Tài chính
+TruongThptLeHongPhong,Trường THPT Lê Hồng Phong,332,119,Giáo dục
+BenhVienAKhoaNguyenOanh,Bệnh viện Đa khoa - Nguyễn Oanh,87,251,Y tế
+CongVienCayXanh,Công viên Cây xanh,241,259,Công
+CuaHangCircleKTranHungAo,Cửa hàng Circle K - Trần Hưng Đạo,87,146,Thương mại
+TruongTieuHocInhTienHoang84,Trường Tiểu học Đinh Tiên Hoàng 84,305,438,Giáo dục
+SieuThiEmartLeVanSy,Siêu thị Emart - Lê Văn Sỹ,23,175,Thương mại
+TruongThptLeHongPhong,Trường THPT Lê Hồng Phong,138,153,Giáo dục
+CongVienCayXanh92,Công viên Cây xanh 92,59,306,Công
+ChungCuEhome,Chung cư Ehome,540,62,Khu dân cư
+TruongTieuHocNguyenBinhKhiem,Trường Tiểu học Nguyễn Bỉnh Khiêm,214,17,Giáo dục
+BenhVienMatIenBienPhu,Bệnh viện Mắt - Điện Biên Phủ,300,428,Y tế
+BenhVienMatPhamVanOng88,Bệnh viện Mắt - Phạm Văn Đồng 88,49,311,Y tế
+CaPheTrungNguyenVoVanKiet,Cà phê Trung Nguyên - Võ Văn Kiệt,163,105,F&B
+NganHangAgribankQuangTrung59,Ngân hàng Agribank - Quang Trung 59,22,265,Tài chính
+TruongThptMarieCurie,Trường THPT Marie Curie,186,140,Giáo dục
+CaPhePhucLongMaiChiTho,Cà phê Phúc Long - Mai Chí Thọ,197,14,F&B
+TruongThptLeHongPhong,Trường THPT Lê Hồng Phong,247,419,Giáo dục
+BenhVienQuocTeVoVanKiet10,Bệnh viện Quốc tế - Võ Văn Kiệt 10,285,369,Y tế
+NganHangTechcombankIenBienPhu19,Ngân hàng Techcombank - Điện Biên Phủ 19,383,507,Tài chính
+CuaHang7elevenLeLoi70,Cửa hàng 7-Eleven - Lê Lợi 70,519,78,Thương mại
+TruongThptNguyenThiMinhKhai,Trường THPT Nguyễn Thị Minh Khai,128,119,Giáo dục
+BenhVienPhongKhamAKhoaLeVanSy,Bệnh viện Phòng khám đa khoa - Lê Văn Sỹ,258,499,Y tế
+CongVienThieuNhi,Công viên Thiếu nhi,23,276,Công
+TruongThptLeHongPhong12,Trường THPT Lê Hồng Phong 12,61,149,Giáo dục
+TruongTieuHocInhTienHoang86,Trường Tiểu học Đinh Tiên Hoàng 86,292,451,Giáo dục
+CaPhePassioLeLoi11,Cà phê Passio - Lê Lợi 11,101,70,F&B
+CongVienBoSong59,Công viên Bờ sông 59,32,-9,Công
+TruongThptNguyenThuongHien,Trường THPT Nguyễn Thượng Hiền,89,298,Giáo dục
+SieuThiGoNguyenOanh,Siêu thị GO! - Nguyễn Oanh,333,731,Thương mại
+TruongThptNguyenThuongHien91,Trường THPT Nguyễn Thượng Hiền 91,21,326,Giáo dục
+CuaHangGs25IenBienPhu,Cửa hàng GS25 - Điện Biên Phủ,311,495,Thương mại
+TruongTieuHocLeNgocHan,Trường Tiểu học Lê Ngọc Hân,47,-22,Giáo dục
+NganHangAgribankCachMangThang8,Ngân hàng Agribank - Cách Mạng Tháng 8,91,185,Tài chính
+TruongThptNguyenThuongHien46,Trường THPT Nguyễn Thượng Hiền 46,36,384,Giáo dục
+TruongThptLeQuyOn,Trường THPT Lê Quý Đôn,22,316,Giáo dục
+NganHangBidvNguyenTrai,Ngân hàng BIDV - Nguyễn Trãi,219,111,Tài chính
+ChungCuEhome,Chung cư Ehome,338,624,Khu dân cư
+BenhVienThamMyVoVanKiet,Bệnh viện Thẩm mỹ - Võ Văn Kiệt,159,184,Y tế
+CongVienSinhThai,Công viên Sinh thái,89,206,Công
+TruongThptNguyenThiMinhKhai19,Trường THPT Nguyễn Thị Minh Khai 19,50,32,Giáo dục
+BenhVienMatLeVanSy32,Bệnh viện Mắt - Lê Văn Sỹ 32,22,235,Y tế
+ChungCuVinhomes,Chung cư Vinhomes,68,185,Khu dân cư
+BenhVienNhaKhoaLeLoi,Bệnh viện Nha khoa - Lê Lợi,-20,272,Y tế
+TruongThptLeHongPhong,Trường THPT Lê Hồng Phong,187,107,Giáo dục
+ChungCuSunriseCity38,Chung cư Sunrise City 38,48,218,Khu dân cư
+NganHangMbbankLeVanSy,Ngân hàng MBBank - Lê Văn Sỹ,279,718,Tài chính
+ChungCuJamila,Chung cư Jamila,403,224,Khu dân cư
+TruongTieuHocHoaBinh,Trường Tiểu học Hòa Bình,115,283,Giáo dục
+NganHangAgribankVoVanKiet,Ngân hàng Agribank - Võ Văn Kiệt,36,285,Tài chính
+SieuThiMmMegaMarketMaiChiTho77,Siêu thị MM Mega Market - Mai Chí Thọ 77,555,168,Thương mại
+TruongTieuHocTranHungAo,Trường Tiểu học Trần Hưng Đạo,133,169,Giáo dục
+CongVienThieuNhi,Công viên Thiếu nhi,119,26,Công
+BenhVienThamMyMaiChiTho,Bệnh viện Thẩm mỹ - Mai Chí Thọ,167,190,Y tế
+TruongThptLeHongPhong,Trường THPT Lê Hồng Phong,-22,311,Giáo dục
+CuaHangGs25MaiChiTho57,Cửa hàng GS25 - Mai Chí Thọ 57,337,94,Thương mại
+CuaHangGs25NguyenVanLinh42,Cửa hàng GS25 - Nguyễn Văn Linh 42,291,233,Thương mại
+CaPhePhucLongVoVanKiet,Cà phê Phúc Long - Võ Văn Kiệt,33,398,F&B
+NganHangAcbPhamVanOng,Ngân hàng ACB - Phạm Văn Đồng,226,685,Tài chính
+NganHangVietinbankIenBienPhu,Ngân hàng VietinBank - Điện Biên Phủ,20,354,Tài chính
+CaPheKatinatQuangTrung3,Cà phê Katinat - Quang Trung 3,215,56,F&B
+BenhVienQuocTePhamVanOng,Bệnh viện Quốc tế - Phạm Văn Đồng,182,424,Y tế
+TruongThptBuiThiXuan,Trường THPT Bùi Thị Xuân,257,113,Giáo dục
+CaPhePassioTranHungAo,Cà phê Passio - Trần Hưng Đạo,196,245,F&B
+CaPheTrungNguyenNguyenVanLinh97,Cà phê Trung Nguyên - Nguyễn Văn Linh 97,-15,270,F&B
+TruongThptGiaInh,Trường THPT Gia Định,233,212,Giáo dục
+TruongThptLeQuyOn22,Trường THPT Lê Quý Đôn 22,24,193,Giáo dục
+TruongTieuHocNguyenBinhKhiem,Trường Tiểu học Nguyễn Bỉnh Khiêm,50,327,Giáo dục
+BenhVienAKhoaNguyenOanh,Bệnh viện Đa khoa - Nguyễn Oanh,224,165,Y tế
+CaPheTheCoffeeHouseVoVanKiet,Cà phê The Coffee House - Võ Văn Kiệt,554,86,F&B
+NganHangTechcombankVoVanKiet,Ngân hàng Techcombank - Võ Văn Kiệt,128,59,Tài chính
+CaPheHighlandsCoffeeVoVanKiet43,Cà phê Highlands Coffee - Võ Văn Kiệt 43,135,43,F&B
+ChungCuJamila,Chung cư Jamila,235,290,Khu dân cư
+CongVienBoSong12,Công viên Bờ sông 12,206,737,Công
+CuaHang7elevenLeLoi44,Cửa hàng 7-Eleven - Lê Lợi 44,100,141,Thương mại
+SieuThiMmMegaMarketPhamVanOng,Siêu thị MM Mega Market - Phạm Văn Đồng,127,18,Thương mại
+CuaHangGs25QuangTrung,Cửa hàng GS25 - Quang Trung,202,96,Thương mại
+ChungCuEhome9,Chung cư Ehome 9,242,276,Khu dân cư
+CongVienCayXanh,Công viên Cây xanh,10,103,Công
+CongVienNoiKhu4,Công viên Nội khu 4,331,701,Công
+CuaHang7elevenNguyenVanLinh,Cửa hàng 7-Eleven - Nguyễn Văn Linh,277,424,Thương mại
+CongVienSinhThai81,Công viên Sinh thái 81,-20,27,Công
+TruongTieuHocHoaBinh22,Trường Tiểu học Hòa Bình 22,204,331,Giáo dục
+ChungCuVinhomes,Chung cư Vinhomes,-1,1,Khu dân cư
+SieuThiWinmartLeVanSy,Siêu thị Winmart - Lê Văn Sỹ,197,138,Thương mại
+TruongThptTranAiNghia22,Trường THPT Trần Đại Nghĩa 22,60,432,Giáo dục
+TruongThptTranAiNghia,Trường THPT Trần Đại Nghĩa,28,26,Giáo dục
+SieuThiWinmartIenBienPhu,Siêu thị Winmart - Điện Biên Phủ,70,394,Thương mại
+TruongTieuHocHoaBinh9,Trường Tiểu học Hòa Bình 9,210,60,Giáo dục
+SieuThiLotteMartLeLoi,Siêu thị Lotte Mart - Lê Lợi,10,421,Thương mại
+CaPheTheCoffeeHouseMaiChiTho57,Cà phê The Coffee House - Mai Chí Thọ 57,82,186,F&B
+ChungCuSunriseCity,Chung cư Sunrise City,274,741,Khu dân cư
+CongVienCayXanh,Công viên Cây xanh,290,609,Công
+CuaHangGs25LeLoi98,Cửa hàng GS25 - Lê Lợi 98,19,445,Thương mại
+TruongThptLeQuyOn21,Trường THPT Lê Quý Đôn 21,151,56,Giáo dục
+CongVienSinhThai,Công viên Sinh thái,89,19,Công
+BenhVienThamMyVoVanKiet27,Bệnh viện Thẩm mỹ - Võ Văn Kiệt 27,250,529,Y tế
+CongVienBoSong,Công viên Bờ sông,106,231,Công
+CongVienSinhThai,Công viên Sinh thái,22,294,Công
+TruongThptLeHongPhong,Trường THPT Lê Hồng Phong,188,41,Giáo dục
+ChungCuHimLam,Chung cư Him Lam,-16,410,Khu dân cư
+CaPhePhucLongIenBienPhu,Cà phê Phúc Long - Điện Biên Phủ,188,44,F&B
+CongVienBoSong65,Công viên Bờ sông 65,337,620,Công
+SieuThiLotteMartNguyenTrai91,Siêu thị Lotte Mart - Nguyễn Trãi 91,384,619,Thương mại
+ChungCuMasteri,Chung cư Masteri,214,504,Khu dân cư
+SieuThiMmMegaMarketPhamVanOng,Siêu thị MM Mega Market - Phạm Văn Đồng,88,340,Thương mại
+CuaHangBachHoaXanhVoVanKiet,Cửa hàng Bách Hóa Xanh - Võ Văn Kiệt,239,169,Thương mại
+CongVienNoiKhu1,Công viên Nội khu 1,48,362,Công
+TruongThptGiaInh,Trường THPT Gia Định,66,138,Giáo dục
+TruongThptNguyenThuongHien36,Trường THPT Nguyễn Thượng Hiền 36,34,140,Giáo dục
+CongVienBoSong,Công viên Bờ sông,241,56,Công
+SieuThiEmartMaiChiTho,Siêu thị Emart - Mai Chí Thọ,177,73,Thương mại
+ChungCuNovaland32,Chung cư Novaland 32,484,66,Khu dân cư
+BenhVienThamMyNguyenOanh,Bệnh viện Thẩm mỹ - Nguyễn Oanh,70,308,Y tế
+BenhVienMatQuangTrung5,Bệnh viện Mắt - Quang Trung 5,-25,335,Y tế
+CuaHangCircleKNguyenVanLinh,Cửa hàng Circle K - Nguyễn Văn Linh,62,337,Thương mại
+CongVienBoSong,Công viên Bờ sông,134,44,Công
+TruongTieuHocInhTienHoang,Trường Tiểu học Đinh Tiên Hoàng,15,424,Giáo dục
+SieuThiLotteMartTranHungAo,Siêu thị Lotte Mart - Trần Hưng Đạo,-36,-4,Thương mại
+TruongThptTranAiNghia92,Trường THPT Trần Đại Nghĩa 92,37,-28,Giáo dục
+CongVienSinhThai,Công viên Sinh thái,32,429,Công
+ChungCuNovaland31,Chung cư Novaland 31,490,102,Khu dân cư
+CongVienCayXanh,Công viên Cây xanh,140,302,Công
+CongVienSinhThai71,Công viên Sinh thái 71,146,127,Công
+SieuThiCoopmartTranHungAo,Siêu thị Co.opmart - Trần Hưng Đạo,139,251,Thương mại
+CaPhePassioNguyenOanh,Cà phê Passio - Nguyễn Oanh,468,280,F&B
+SieuThiGoQuangTrung57,Siêu thị GO! - Quang Trung 57,387,112,Thương mại
+SieuThiLotteMartTranHungAo,Siêu thị Lotte Mart - Trần Hưng Đạo,304,518,Thương mại
+BenhVienMatPhamVanOng,Bệnh viện Mắt - Phạm Văn Đồng,203,31,Y tế
+ChungCuCityland,Chung cư Cityland,309,309,Khu dân cư
+TruongTieuHocInhTienHoang,Trường Tiểu học Đinh Tiên Hoàng,34,251,Giáo dục
+CuaHangBachHoaXanhNguyenTrai,Cửa hàng Bách Hóa Xanh - Nguyễn Trãi,-2,261,Thương mại
+CuaHangGs25NguyenTrai55,Cửa hàng GS25 - Nguyễn Trãi 55,250,50,Thương mại
+ChungCuEhome52,Chung cư Ehome 52,92,259,Khu dân cư
+CaPheTheCoffeeHouseLeVanSy,Cà phê The Coffee House - Lê Văn Sỹ,209,391,F&B
+CuaHangBachHoaXanhQuangTrung,Cửa hàng Bách Hóa Xanh - Quang Trung,202,464,Thương mại
+TruongTieuHocInhTienHoang,Trường Tiểu học Đinh Tiên Hoàng,164,152,Giáo dục
+CongVienThieuNhi,Công viên Thiếu nhi,-15,377,Công
+ChungCuHimLam68,Chung cư Him Lam 68,277,399,Khu dân cư
+CuaHangMinistopNguyenVanLinh,Cửa hàng MiniStop - Nguyễn Văn Linh,46,-28,Thương mại
+CongVienThieuNhi82,Công viên Thiếu nhi 82,-10,349,Công
+CuaHangBachHoaXanhMaiChiTho41,Cửa hàng Bách Hóa Xanh - Mai Chí Thọ 41,62,349,Thương mại
+NganHangVietcombankCachMangThang829,Ngân hàng Vietcombank - Cách Mạng Tháng 8 29,598,99,Tài chính
+SieuThiGoMaiChiTho,Siêu thị GO! - Mai Chí Thọ,71,257,Thương mại
+SieuThiWinmartIenBienPhu48,Siêu thị Winmart - Điện Biên Phủ 48,124,332,Thương mại
+CaPheKatinatLeVanSy41,Cà phê Katinat - Lê Văn Sỹ 41,251,388,F&B
+TruongThptNguyenThiMinhKhai,Trường THPT Nguyễn Thị Minh Khai,47,133,Giáo dục
+ChungCuMasteri,Chung cư Masteri,143,84,Khu dân cư
+BenhVienAKhoaMaiChiTho,Bệnh viện Đa khoa - Mai Chí Thọ,310,296,Y tế
+NganHangMbbankNguyenTrai62,Ngân hàng MBBank - Nguyễn Trãi 62,334,84,Tài chính
+TruongThptGiaInh34,Trường THPT Gia Định 34,58,324,Giáo dục
+CaPheTrungNguyenCachMangThang81,Cà phê Trung Nguyên - Cách Mạng Tháng 8 1,247,80,F&B
+TruongThptMarieCurie50,Trường THPT Marie Curie 50,279,646,Giáo dục
+CuaHangMinistopQuangTrung,Cửa hàng MiniStop - Quang Trung,276,154,Thương mại
+CongVienThieuNhi,Công viên Thiếu nhi,283,353,Công
+CongVienBoSong,Công viên Bờ sông,39,285,Công
+SieuThiCoopmartNguyenVanLinh,Siêu thị Co.opmart - Nguyễn Văn Linh,37,-38,Thương mại
+ChungCuMasteri,Chung cư Masteri,230,152,Khu dân cư
+TruongTieuHocLeNgocHan75,Trường Tiểu học Lê Ngọc Hân 75,50,-17,Giáo dục
+NganHangSacombankVoVanKiet,Ngân hàng Sacombank - Võ Văn Kiệt,3,-9,Tài chính
+CaPhePassioIenBienPhu,Cà phê Passio - Điện Biên Phủ,124,77,F&B
+NganHangAcbMaiChiTho,Ngân hàng ACB - Mai Chí Thọ,209,604,Tài chính
+NganHangAcbQuangTrung,Ngân hàng ACB - Quang Trung,147,171,Tài chính
+CuaHangCircleKMaiChiTho12,Cửa hàng Circle K - Mai Chí Thọ 12,127,50,Thương mại
+SieuThiEmartLeLoi,Siêu thị Emart - Lê Lợi,196,330,Thương mại
+SieuThiLotteMartPhamVanOng,Siêu thị Lotte Mart - Phạm Văn Đồng,236,99,Thương mại
+BenhVienThamMyNguyenVanLinh,Bệnh viện Thẩm mỹ - Nguyễn Văn Linh,221,476,Y tế
+TruongTieuHocHoaBinh,Trường Tiểu học Hòa Bình,244,243,Giáo dục
+TruongThptLeHongPhong88,Trường THPT Lê Hồng Phong 88,6,287,Giáo dục
+BenhVienQuocTeNguyenTrai,Bệnh viện Quốc tế - Nguyễn Trãi,40,498,Y tế
+NganHangAcbNguyenOanh,Ngân hàng ACB - Nguyễn Oanh,314,629,Tài chính
+BenhVienPhongKhamAKhoaTranHungAo,Bệnh viện Phòng khám đa khoa - Trần Hưng Đạo,353,164,Y tế
+NganHangVietcombankQuangTrung,Ngân hàng Vietcombank - Quang Trung,353,561,Tài chính
+SieuThiGoPhamVanOng76,Siêu thị GO! - Phạm Văn Đồng 76,71,268,Thương mại
+NganHangSacombankNguyenVanLinh69,Ngân hàng Sacombank - Nguyễn Văn Linh 69,278,285,Tài chính
+ChungCuVinhomes9,Chung cư Vinhomes 9,479,211,Khu dân cư
+ChungCuMasteri56,Chung cư Masteri 56,23,493,Khu dân cư
+TruongThptBuiThiXuan,Trường THPT Bùi Thị Xuân,85,50,Giáo dục
+ChungCuMasteri73,Chung cư Masteri 73,322,652,Khu dân cư
+TruongThptLeHongPhong,Trường THPT Lê Hồng Phong,287,416,Giáo dục
+CongVienBoSong,Công viên Bờ sông,171,96,Công
+CongVienBoSong,Công viên Bờ sông,365,571,Công
+BenhVienPhongKhamAKhoaLeLoi,Bệnh viện Phòng khám đa khoa - Lê Lợi,33,316,Y tế
+ChungCuVinhomes42,Chung cư Vinhomes 42,374,652,Khu dân cư
+TruongTieuHocNguyenBinhKhiem,Trường Tiểu học Nguyễn Bỉnh Khiêm,304,143,Giáo dục
+CaPheKatinatLeVanSy,Cà phê Katinat - Lê Văn Sỹ,180,440,F&B
+ChungCuSunriseCity,Chung cư Sunrise City,269,682,Khu dân cư
+CaPhePassioLeVanSy,Cà phê Passio - Lê Văn Sỹ,-12,370,F&B
+NganHangSacombankNguyenVanLinh,Ngân hàng Sacombank - Nguyễn Văn Linh,87,120,Tài chính
+CongVienNoiKhu,Công viên Nội khu,-14,336,Công
+CuaHangMinistopNguyenTrai33,Cửa hàng MiniStop - Nguyễn Trãi 33,137,273,Thương mại
+CuaHangMinistopCachMangThang8,Cửa hàng MiniStop - Cách Mạng Tháng 8,120,193,Thương mại
+NganHangSacombankMaiChiTho,Ngân hàng Sacombank - Mai Chí Thọ,134,93,Tài chính
+TruongThptLeHongPhong89,Trường THPT Lê Hồng Phong 89,47,210,Giáo dục
+NganHangAcbNguyenOanh,Ngân hàng ACB - Nguyễn Oanh,110,337,Tài chính
+TruongThptLeQuyOn94,Trường THPT Lê Quý Đôn 94,71,250,Giáo dục
+ChungCuMasteri,Chung cư Masteri,13,0,Khu dân cư
+CuaHang7elevenLeVanSy,Cửa hàng 7-Eleven - Lê Văn Sỹ,-23,6,Thương mại
+BenhVienMatVoVanKiet,Bệnh viện Mắt - Võ Văn Kiệt,-21,3,Y tế
+CaPhePhucLongMaiChiTho,Cà phê Phúc Long - Mai Chí Thọ,244,199,F&B
+CongVienNoiKhu,Công viên Nội khu,406,217,Công
+NganHangAcbVoVanKiet1,Ngân hàng ACB - Võ Văn Kiệt 1,-4,459,Tài chính
+CongVienCayXanh,Công viên Cây xanh,169,228,Công
+TruongThptBuiThiXuan,Trường THPT Bùi Thị Xuân,226,237,Giáo dục
+ChungCuNovaland,Chung cư Novaland,318,568,Khu dân cư
+CuaHangCircleKLeLoi,Cửa hàng Circle K - Lê Lợi,47,-49,Thương mại
+ChungCuEhome2,Chung cư Ehome 2,229,626,Khu dân cư
+NganHangMbbankNguyenOanh56,Ngân hàng MBBank - Nguyễn Oanh 56,493,199,Tài chính
+CongVienThieuNhi,Công viên Thiếu nhi,26,466,Công
+NganHangMbbankCachMangThang8,Ngân hàng MBBank - Cách Mạng Tháng 8,73,356,Tài chính
+TruongThptTranAiNghia76,Trường THPT Trần Đại Nghĩa 76,191,246,Giáo dục
+ChungCuEhome2,Chung cư Ehome 2,-11,443,Khu dân cư
+NganHangTechcombankNguyenVanLinh,Ngân hàng Techcombank - Nguyễn Văn Linh,213,35,Tài chính
+CaPheHighlandsCoffeePhamVanOng93,Cà phê Highlands Coffee - Phạm Văn Đồng 93,135,212,F&B
+TruongThptBuiThiXuan,Trường THPT Bùi Thị Xuân,100,205,Giáo dục
+BenhVienPhongKhamAKhoaVoVanKiet59,Bệnh viện Phòng khám đa khoa - Võ Văn Kiệt 59,52,121,Y tế
+CuaHangCircleKQuangTrung,Cửa hàng Circle K - Quang Trung,543,71,Thương mại
+TruongThptLeQuyOn,Trường THPT Lê Quý Đôn,315,164,Giáo dục
+TruongTieuHocInhTienHoang,Trường Tiểu học Đinh Tiên Hoàng,193,31,Giáo dục
+CongVienThieuNhi,Công viên Thiếu nhi,31,337,Công
+SieuThiGoIenBienPhu,Siêu thị GO! - Điện Biên Phủ,44,22,Thương mại
+ChungCuSunriseCity,Chung cư Sunrise City,564,186,Khu dân cư
+TruongThptLeHongPhong44,Trường THPT Lê Hồng Phong 44,23,405,Giáo dục
+SieuThiLotteMartIenBienPhu,Siêu thị Lotte Mart - Điện Biên Phủ,254,443,Thương mại
+TruongThptLeQuyOn,Trường THPT Lê Quý Đôn,301,661,Giáo dục
+CongVienBoSong,Công viên Bờ sông,226,366,Công
+BenhVienMatQuangTrung98,Bệnh viện Mắt - Quang Trung 98,192,151,Y tế
+CaPhePassioVoVanKiet,Cà phê Passio - Võ Văn Kiệt,350,602,F&B
+TruongTieuHocTranHungAo,Trường Tiểu học Trần Hưng Đạo,100,117,Giáo dục
+ChungCuEhome5,Chung cư Ehome 5,263,354,Khu dân cư
+TruongThptNguyenThuongHien,Trường THPT Nguyễn Thượng Hiền,67,157,Giáo dục
+CongVienCayXanh,Công viên Cây xanh,578,191,Công
+TruongTieuHocLeNgocHan,Trường Tiểu học Lê Ngọc Hân,31,291,Giáo dục
+TruongTieuHocInhTienHoang,Trường Tiểu học Đinh Tiên Hoàng,149,187,Giáo dục
+CongVienSinhThai69,Công viên Sinh thái 69,-11,474,Công
+CuaHang7elevenTranHungAo53,Cửa hàng 7-Eleven - Trần Hưng Đạo 53,196,81,Thương mại
+CuaHangGs25LeLoi3,Cửa hàng GS25 - Lê Lợi 3,205,233,Thương mại
+CuaHangBachHoaXanhNguyenVanLinh,Cửa hàng Bách Hóa Xanh - Nguyễn Văn Linh,297,442,Thương mại
+NganHangSacombankIenBienPhu,Ngân hàng Sacombank - Điện Biên Phủ,570,187,Tài chính
+CuaHang7elevenVoVanKiet62,Cửa hàng 7-Eleven - Võ Văn Kiệt 62,223,429,Thương mại
+ChungCuEhome59,Chung cư Ehome 59,217,440,Khu dân cư
+CongVienThieuNhi,Công viên Thiếu nhi,319,216,Công
+NganHangTechcombankLeVanSy77,Ngân hàng Techcombank - Lê Văn Sỹ 77,234,63,Tài chính
+BenhVienMatLeVanSy,Bệnh viện Mắt - Lê Văn Sỹ,128,230,Y tế
+NganHangVietcombankTranHungAo,Ngân hàng Vietcombank - Trần Hưng Đạo,178,152,Tài chính
+BenhVienQuocTeMaiChiTho,Bệnh viện Quốc tế - Mai Chí Thọ,0,11,Y tế
+ChungCuHimLam,Chung cư Him Lam,54,131,Khu dân cư
+ChungCuCityland,Chung cư Cityland,2,-24,Khu dân cư
+TruongTieuHocHoaBinh20,Trường Tiểu học Hòa Bình 20,252,435,Giáo dục
+ChungCuCityland,Chung cư Cityland,325,599,Khu dân cư
+NganHangTechcombankTranHungAo5,Ngân hàng Techcombank - Trần Hưng Đạo 5,423,129,Tài chính
+CuaHangFamilymartNguyenOanh,Cửa hàng FamilyMart - Nguyễn Oanh,142,193,Thương mại
+ChungCuEhome,Chung cư Ehome,8,270,Khu dân cư
+NganHangMbbankVoVanKiet63,Ngân hàng MBBank - Võ Văn Kiệt 63,-7,-45,Tài chính
+TruongTieuHocNguyenBinhKhiem4,Trường Tiểu học Nguyễn Bỉnh Khiêm 4,112,251,Giáo dục
+ChungCuCityland,Chung cư Cityland,281,383,Khu dân cư
+TruongThptBuiThiXuan,Trường THPT Bùi Thị Xuân,389,142,Giáo dục
+NganHangTechcombankPhamVanOng13,Ngân hàng Techcombank - Phạm Văn Đồng 13,161,83,Tài chính
+CongVienThieuNhi,Công viên Thiếu nhi,196,17,Công
+NganHangBidvNguyenVanLinh,Ngân hàng BIDV - Nguyễn Văn Linh,269,472,Tài chính
+TruongThptGiaInh,Trường THPT Gia Định,144,33,Giáo dục
+TruongThptTranAiNghia,Trường THPT Trần Đại Nghĩa,270,654,Giáo dục
+TruongThptMarieCurie,Trường THPT Marie Curie,205,409,Giáo dục
+SieuThiGoVoVanKiet,Siêu thị GO! - Võ Văn Kiệt,34,463,Thương mại
+BenhVienAKhoaPhamVanOng,Bệnh viện Đa khoa - Phạm Văn Đồng,82,26,Y tế
+BenhVienMatNguyenTrai,Bệnh viện Mắt - Nguyễn Trãi,110,35,Y tế
+TruongTieuHocHoaBinh,Trường Tiểu học Hòa Bình,295,719,Giáo dục
+CuaHangFamilymartPhamVanOng,Cửa hàng FamilyMart - Phạm Văn Đồng,395,556,Thương mại
+ChungCuNovaland,Chung cư Novaland,26,36,Khu dân cư
+NganHangSacombankTranHungAo,Ngân hàng Sacombank - Trần Hưng Đạo,243,334,Tài chính
+CaPhePhucLongNguyenVanLinh,Cà phê Phúc Long - Nguyễn Văn Linh,140,164,F&B
+CongVienThieuNhi,Công viên Thiếu nhi,183,43,Công
+SieuThiLotteMartQuangTrung,Siêu thị Lotte Mart - Quang Trung,336,719,Thương mại
+CaPhePassioTranHungAo33,Cà phê Passio - Trần Hưng Đạo 33,-12,345,F&B
+TruongThptBuiThiXuan34,Trường THPT Bùi Thị Xuân 34,127,185,Giáo dục
+CuaHangCircleKNguyenOanh,Cửa hàng Circle K - Nguyễn Oanh,100,254,Thương mại
+CuaHangCircleKIenBienPhu6,Cửa hàng Circle K - Điện Biên Phủ 6,273,427,Thương mại
+SieuThiGoNguyenTrai,Siêu thị GO! - Nguyễn Trãi,104,377,Thương mại
+ChungCuSunriseCity,Chung cư Sunrise City,285,111,Khu dân cư
+TruongThptGiaInh,Trường THPT Gia Định,45,125,Giáo dục
+SieuThiLotteMartIenBienPhu,Siêu thị Lotte Mart - Điện Biên Phủ,569,280,Thương mại
+CaPhePhucLongNguyenVanLinh,Cà phê Phúc Long - Nguyễn Văn Linh,313,480,F&B
+TruongTieuHocHoaBinh,Trường Tiểu học Hòa Bình,52,310,Giáo dục
+TruongTieuHocKetOan13,Trường Tiểu học Kết Đoàn 13,213,368,Giáo dục
+CuaHangGs25VoVanKiet88,Cửa hàng GS25 - Võ Văn Kiệt 88,220,218,Thương mại
+BenhVienPhongKhamAKhoaNguyenTrai56,Bệnh viện Phòng khám đa khoa - Nguyễn Trãi 56,127,278,Y tế
+CuaHangCircleKNguyenOanh,Cửa hàng Circle K - Nguyễn Oanh,323,232,Thương mại
+BenhVienPhongKhamAKhoaMaiChiTho,Bệnh viện Phòng khám đa khoa - Mai Chí Thọ,369,512,Y tế
+SieuThiMmMegaMarketCachMangThang8,Siêu thị MM Mega Market - Cách Mạng Tháng 8,302,715,Thương mại
+TruongThptLeHongPhong,Trường THPT Lê Hồng Phong,90,140,Giáo dục
+CuaHangBachHoaXanhMaiChiTho,Cửa hàng Bách Hóa Xanh - Mai Chí Thọ,580,166,Thương mại
+TruongThptGiaInh,Trường THPT Gia Định,314,71,Giáo dục
+BenhVienPhongKhamAKhoaQuangTrung45,Bệnh viện Phòng khám đa khoa - Quang Trung 45,-18,1,Y tế
+SieuThiLotteMartMaiChiTho,Siêu thị Lotte Mart - Mai Chí Thọ,178,214,Thương mại
+ChungCuJamila,Chung cư Jamila,72,140,Khu dân cư
+CuaHangBachHoaXanhCachMangThang8,Cửa hàng Bách Hóa Xanh - Cách Mạng Tháng 8,405,205,Thương mại
+BenhVienThamMyLeVanSy,Bệnh viện Thẩm mỹ - Lê Văn Sỹ,-20,25,Y tế
+TruongThptTranAiNghia94,Trường THPT Trần Đại Nghĩa 94,225,425,Giáo dục
+BenhVienMatLeLoi,Bệnh viện Mắt - Lê Lợi,157,246,Y tế
+CuaHangGs25QuangTrung,Cửa hàng GS25 - Quang Trung,500,240,Thương mại
+NganHangSacombankVoVanKiet,Ngân hàng Sacombank - Võ Văn Kiệt,186,478,Tài chính
